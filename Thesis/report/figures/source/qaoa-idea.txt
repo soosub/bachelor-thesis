@@ -1,0 +1,1 @@
+Zhou et al. (2018) QAOA Performance, Mechanism and Implementation on near term devices

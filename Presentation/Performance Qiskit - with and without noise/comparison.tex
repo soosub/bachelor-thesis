@@ -1,0 +1,145 @@
+% TU Delft beamer template
+% Author: Erwin Walraven (initial version was created by Maarten Abbink)
+% Delft Universiy of Technology
+
+\documentclass{beamer}
+\usepackage[english]{babel}
+\usepackage{calc}
+\usepackage[absolute,overlay]{textpos}
+\usepackage{graphicx}
+\usepackage{subfig}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amsthm}
+\usepackage{mathtools}
+\usepackage{comment}
+\usepackage{MnSymbol,wasysym}
+\usepackage{url}
+\usepackage{fancyhdr}
+\usepackage{subfig}
+\usepackage{adjustbox}
+
+\setbeamertemplate{navigation symbols}{} % remove navigation symbols
+\mode<presentation>{\usetheme{tud}}
+
+% BIB SETTINGS
+\usepackage[backend=bibtex,firstinits=true,maxnames=30,maxcitenames=20,url=false,style=authoryear]{biblatex}
+\bibliography{bibfile}
+\setlength\bibitemsep{0.3cm} % space between entries in the reference list
+\renewcommand{\bibfont}{\normalfont\scriptsize}
+\setbeamerfont{footnote}{size=\tiny}
+\renewcommand{\cite}[1]{\footnote<.->[frame]{\fullcite{#1}}}
+
+\title[]{Qiskit QAOA performance on MaxCut QAOA \\ with and without noise}
+\institute[]{Technische Universiteit Delft, Nederland}
+\author{Joost Bus \\ \tiny{j.c.p.bus@student.tudelft.nl}}
+\date{\today}
+
+\begin{document}
+{
+\setbeamertemplate{footline}{\usebeamertemplate*{minimal footline}}
+\frame{\titlepage}
+}
+{\setbeamertemplate{footline}{\usebeamertemplate*{minimal footline}}}
+
+% Overview
+\begin{frame}{Overview}
+\tableofcontents
+\end{frame}
+
+\section{Butterfly}
+\begin{frame}{Butterfly graph, on qasm simulator}
+
+\subsection{Noiseless}
+\begin{table}
+	\begin{center}
+		
+		\begin{adjustbox}{width=\textwidth}
+		\begin{tabular}{||c c c c c c c c c c||} 
+			\hline
+			p & iter (avg) & iter (std) & $t$ (mean) [s] & $t$ (std) [s] & obj (mean) & obj (max) & obj (min) & $E$ (mean) & $E$ (std) \\ [0.5ex] 
+			\hline\hline
+			1 & 84.8 & 17.55 & 2.229 & 0.379 & 4.0 & 4.0 & 4.0 & -0.92876 & $1.15\cdot 10^{-9}$\\ 
+			\hline
+			2 & 338.4 & 61.7 & 11.65 & 2.49  & 4.0 & 4.0 & 4.0 & -0.98909 & 0.00587 \\
+			\hline
+			3 & 855.4 & 244.9 & 29.7 & 9.2  & 4.0 & 4.0 & 4.0 & -0.98878 & 0.02295 \\
+			\hline
+			4 & 923.1 & 163.0 & 41.6 & 7.8  & 4.0 & 4.0 & 4.0 & -0.99272 & 0.01078 \\
+			\hline
+			5 & 794.3 & 204.6 & 31.7 & 7.66  & 4.0 & 4.0 & 4.0 & -0.99736 & 0.00634 \\ [1ex] 
+			\hline
+		\end{tabular}
+		\end{adjustbox}
+	\end{center}
+\caption{Without noise, 10 runs per $p$}
+\end{table}
+
+\subsection{With noise}
+\begin{table}
+	\begin{center}
+		\begin{adjustbox}{width=\textwidth}
+			\begin{tabular}{||c c c c c c c c c c||} 
+				\hline
+				p & iter (avg) & iter (std) & $t$ (mean) [s] & $t$ (std) [s] & obj (mean) & obj (max) & obj (min) & $E$ (mean) & $E$ (std) \\ [0.5ex] 
+				\hline\hline
+				1 & 1003 & - & 1082 & - & 4.0 & 4.0 & 4.0 & -0.83890 & -\\ 
+				 [1ex] 
+				\hline
+			\end{tabular}
+		\end{adjustbox}
+	\end{center}
+	\caption{With noise, 1 run per $p$}
+\end{table}
+\end{frame}
+
+
+\section{Diamond graph}
+\begin{frame}{Diamond graph, on qasm simulator}
+\subsection{Noiseless}
+\begin{table}
+	\begin{center}
+		\begin{adjustbox}{width=\textwidth}
+			\begin{tabular}{||c c c c c c c c c c||} 
+				\hline
+				p & iter (avg) & iter (std) & $t$ (mean) [s] & $t$ (std) [s] & obj (mean) & obj (max) & obj (min) & $E$ (mean) & $E$ (std) \\ [0.5ex] 
+				\hline\hline
+				1 & 79.2 & 15.6 & 1.843 & 0.343 & 4.0 & 4.0 & 4.0 & -0.69174 & 0.0730\\ 
+				\hline
+				2 & 331.3 & 105.8 & 8.15 & 2.72  & 4.0 & 4.0 & 4.0 & -0.94124 & 0.14950 \\
+				\hline
+				3 & 900.7 & 159.2 & 23.4 & 4.19  & 4.0 & 4.0 & 4.0 & -1.0959 & 0.02212 \\
+				\hline
+				4 & 1000.2 & 0.42 & 27.15 & 0.094  & 4.0 & 4.0 & 4.0 & -1.2658 & 0.22596 \\
+				\hline
+				5 & 1000.4 & 0.52 & 29.38 & 0.43  & 4.0 & 4.0 & 4.0 & -1.46799 & 0.03789 \\ [1ex] 
+				\hline
+			\end{tabular}
+		\end{adjustbox}
+	\end{center}
+	\caption{Without noise, 10 runs per $p$}
+\end{table}
+
+\subsection{With noise}
+\begin{table}
+	\begin{center}
+		\begin{adjustbox}{width=\textwidth}
+			\begin{tabular}{||c c c c c c c c c c||} 
+				\hline
+				p & iter (avg) & iter (std) & $t$ (mean) [s] & $t$ (std) [s] & obj (mean) & obj (max) & obj (min) & $E$ (mean) & $E$ (std) \\ [0.5ex] 
+				\hline\hline
+				1 & 1000 & - & 1038 & - & 4.0 & 4.0 & 4.0 & -0.63682 & -\\ 
+				[1ex] 
+				\hline
+			\end{tabular}
+		\end{adjustbox}
+	\end{center}
+	\caption{With noise, 1 run per $p$}
+\end{table}
+\end{frame}
+
+
+
+
+
+\end{document}

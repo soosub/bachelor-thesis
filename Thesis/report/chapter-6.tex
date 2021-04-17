@@ -1,0 +1,32 @@
+\chapter{Conclusions and Future Work}
+\label{chap:conclusions}
+
+The Quantum Approximate Optimization Algorithm (QAOA) is a variational quantum algorithm designed to solve combinatorial optimization problems that depends on $2p$ parameters. Due to its shallow depth it is relatively robust against errors and thus surpasses the need for error correction, making it an interesting algorithm to test on NISQ devices. One of the challenges for feasible use of the algorithm is the determination of suitable parameters. In this thesis I implemented and evaluated the INTERP method proposed by Zhou et al. \cite{ZWCPL18} that exploits similarities with the Quantum Adiabatic Algorithm in order to find quasi-optimal parameters in poly($p$) time. This was realized by benchmarking it against the classical Goemans-Williamson algorithm on a variety of graph classes, namely cyclic, 3-regular weighted and unweighted, and Erd\"os-R\'enyi graphs with edge probability 0.5 and 0.75. 
+
+It was found that the depth $p$ required for surpassing the performance of Goemans-Williamson was dependent on the graph class. While only $p=2$ and in some cases $p=3$ was required for QAOA to surpass the approximation ratio of 0.878, the Goemans-Williamson algorithm is often able to do better. Accordingly, a different metric was chosen, namely $r_{GW}$ to compare Goemans-Williamson on equal footing with QAOA. For $p \gtrsim 6$ for unweighted 3-regular graphs, and $p \gtrsim 7$ for weighted 3-regular graphs, the QAOA algorithm using the INTERP method consistently outperforms the classical Goemans-Williamson algorithm in terms of this measure for small graphs with $n \lesssim 16$. Similarly, for Erd\"os-R\'enyi graphs $p \gtrsim 7$ was required for graphs with edge probability 0.5 and edge probability 0.75. However, this figure is also dependent on the graph size.
+
+One important aspect of the algorithm is the amount of objective function calls required to find the parameters. It was found that this number is significant to the number of partitions for the small graphs analyzed in this thesis. This leads me to conclude that in practice one should prefer Goemans-Williamson over QAOA for small graphs when approximate solutions suffice.
+
+The circuit implementing the algorithm applied to the Max-Cut problem requires only $O(n^2)$ gates by design, and the numeric results from this thesis suggested that the amount of function calls required for the outer loop classical optimization only grows polynomially in $p$, as was claimed in \cite{ZWCPL18}.  Therefore, the computational cost of finding quasi-optimal parameters using INTERP is expected to only grow polynomially in $n$ and $p$. For large graph sizes, the number of function calls will no longer be significant to the number of possible partitions as the latter grows exponentially with the problem size.
+
+Moreover, it was found that monotonic patterns in the parameters were consistenly observed in all the classes of graphs that were investigated. One might wonder if this was enforced by the INTERP method itself. While it is possible that the found parameters are local optima, the results also show that the expectation value $F_p$ monotonically increases with $p$. This fact illustrates that the heuristic works well and offers a good alternative to gridsearches or randomly initialised optimization routines given the costly probing of the parameter space.
+\\~\\
+The work conducted in this thesis has also led to new questions. One of the main topics that requires further examination is whether or not it is possible to speed up the parameter determination. One idea that comes to mind is to use optimal parameters for one instance of a class of graphs, and use this to find good partitions. Closely related to this idea is to construct some function that closely resemebles the optimum pattern of a given graph class, and use this function to determine parameters, or start optimizing from this point to find local optimal parameters. Possibly, this could offer an advantage over an iterative method like INTERP that starts from a low $p_0$ and whose performance is greatly influenced by its initial point $(\vec{\gamma}_{(p_0)}, \vec{\beta}_{(p_0)})$. This approach could be aided with Machine Learning techniques to recognize relevant features of a given graph and its class.
+
+Another topic of interest for future research is the implementation on actual quantum devices. As simulating the QAOA circuit on a classical device is not time-efficient, it is hard to get intuition for the time it takes on real quantum hardware combined with a classical computer. Because we are now approaching quantum devices with around 100 bits, it would be interesting to see if QAOA offers an advantage over classical algorithms for large problem sizes, as the exponential nature of many combinatorial optimization problems really becomes relevant for high $n$. A possible choke point for the speed of the algorithm would be the communication between the quantum computer and the classical computer. It would be interesting to see if hardware especially dedicated to these hybrid algorithms has advantageous beyond classical capability.
+
+By extension, the problems that are forthcoming from real devices should also be investigated, such as the algorithm's resistance to error. Moreover, the mapping of the circuit onto the processor is subject to the processor constraints which might cause a loss in performance as real processors have limitted qubit connectivity. Furthermore, it should be investigated how the sampled average affects the speed of the classical optimization routine as it might cause problems due to the stochastic nature of the measurement outcomes.
+
+
+
+%\begin{itemize}
+%	\item One could wonder if the linear pattern was enforced by the INTERP method.
+%	\item The number of samples and thus objective function calculations royally exceed the number possible partitions if starting INTERP from scratch, sometimes even 
+%	\item Paper from Hastings
+%	\item Paper hundreds of qubits
+%	\item Integrated machine for VQE
+%	\item Polynomial time?
+%	\item when is QAOA faster, what are the applications
+%	\item applications beyond Max-Cut \hl{It might be interesting to include some of this in the theory chapter (story about Max-E3-Lin2)}
+%\end{itemize}
+

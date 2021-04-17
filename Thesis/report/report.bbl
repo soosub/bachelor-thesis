@@ -1,0 +1,404 @@
+\begin{thebibliography}{63}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[{Alam} et~al.(2020){Alam}, {Ash-Saki}, and {Ghosh}]{AAG20}
+Mahabubul {Alam}, Abdullah {Ash-Saki}, and Swaroop {Ghosh}.
+\newblock {Accelerating Quantum Approximate Optimization Algorithm using
+  Machine Learning}.
+\newblock \emph{arXiv e-prints}, art. arXiv:2002.01089, February 2020.
+
+\bibitem[Albash and Lidar(2018)]{AL18}
+Tameem Albash and Daniel~A. Lidar.
+\newblock Adiabatic quantum computation.
+\newblock \emph{Rev. Mod. Phys.}, 90:\penalty0 015002, January 2018.
+\newblock \doi{10.1103/RevModPhys.90.015002}.
+
+\bibitem[Arute et~al.(2019)Arute, Arya, Babbush, Bacon, Bardin, Barends,
+  Biswas, Boixo, Brandao, Buell, et~al.]{QuantumSupremacy}
+Frank Arute, Kunal Arya, Ryan Babbush, Dave Bacon, Joseph~C Bardin, Rami
+  Barends, Rupak Biswas, Sergio Boixo, Fernando~GSL Brandao, David~A Buell,
+  et~al.
+\newblock Quantum supremacy using a programmable superconducting processor.
+\newblock \emph{Nature}, 574\penalty0 (7779):\penalty0 505--510, 2019.
+
+\bibitem[{Arute} et~al.(2020){Arute}, {Arya}, {Babbush}, {Bacon}, {Bardin},
+  {Barends}, et~al.]{active-1}
+Frank {Arute}, Kunal {Arya}, Ryan {Babbush}, Dave {Bacon}, Joseph~C. {Bardin},
+  Rami {Barends}, et~al.
+\newblock {Quantum Approximate Optimization of Non-Planar Graph Problems on a
+  Planar Superconducting Processor}.
+\newblock \emph{arXiv e-prints}, art. arXiv:2004.04197, April 2020.
+
+\bibitem[Asfaw et~al.(2020)Asfaw, Wood, Wootton, et~al.]{Qiskit-Textbook}
+Abraham Asfaw, Stephen Wood, James Wootton, et~al.
+\newblock {Learn Quantum Computation Using Qiskit}, 2020.
+\newblock URL \url{http://community.qiskit.org/textbook}.
+
+\bibitem[{Barak} and {Steurer}(2016)]{maxcut-applications}
+Boaz {Barak} and David {Steurer}.
+\newblock Proofs, beliefs, and algorithms through the lens of sum-of-squares,
+  2016.
+\newblock URL \url{https://www.sumofsquares.org/public/index.html}.
+
+\bibitem[Berman and Karpinski(1999)]{BK99}
+Piotr Berman and Marek Karpinski.
+\newblock On some tighter inapproximability results.
+\newblock In Ji{\v{r}}{\'i} Wiedermann, Peter van Emde~Boas, and Mogens
+  Nielsen, editors, \emph{Automata, Languages and Programming}, pages 200--209,
+  Berlin, Heidelberg, 1999. Springer Berlin Heidelberg.
+\newblock ISBN 978-3-540-48523-0.
+
+\bibitem[{Brandao} et~al.(2018){Brandao}, {Broughton}, {Farhi}, {Gutmann}, and
+  {Neven}]{BBFGH18}
+Fernando G.~S.~L. {Brandao}, Michael {Broughton}, Edward {Farhi}, Sam
+  {Gutmann}, and Hartmut {Neven}.
+\newblock {For Fixed Control Parameters the Quantum Approximate Optimization
+  Algorithm's Objective Function Value Concentrates for Typical Instances}.
+\newblock \emph{arXiv e-prints}, art. arXiv:1812.04170, December 2018.
+
+\bibitem[Bus(2020)]{pyQuil-INTERP}
+Joost Bus.
+\newblock {Source code of the QAOA pyQuil INTERP method}, 2020.
+\newblock URL \url{https://github.com/soosub/bep/tree/master/Implementation}.
+
+\bibitem[Cai(2003{\natexlab{a}})]{lecture-GW}
+Jin-Yi Cai.
+\newblock {CS 810}: {I}ntroduction to complexity theory - lecture 20:
+  {G}oemans-{W}illiamson {MAXCUT} approximation algorithm, March
+  2003{\natexlab{a}}.
+\newblock URL \url{http://pages.cs.wisc.edu/~jyc/02-810notes/lecture20.pdf}.
+
+\bibitem[Cai(2003{\natexlab{b}})]{lecture-MaxCut}
+Jin-Yi Cai.
+\newblock {CS} 810: Introduction to complexity theory - lecture 19: Randomized
+  algorithms: {MAXCUT}, March 2003{\natexlab{b}}.
+\newblock URL \url{http://pages.cs.wisc.edu/~jyc/02-810notes/lecture19.pdf}.
+
+\bibitem[{Cerezo} et~al.(2020){Cerezo}, {Sharma}, {Arrasmith}, and
+  {Coles}]{active-3}
+Marco {Cerezo}, Kunal {Sharma}, Andrew {Arrasmith}, and Patrick~J. {Coles}.
+\newblock {Variational Quantum State Eigensolver}.
+\newblock \emph{arXiv e-prints}, art. arXiv:2004.01372, April 2020.
+
+\bibitem[{Crooks}(2018)]{Crooks18}
+Gavin~E. {Crooks}.
+\newblock {Performance of the Quantum Approximate Optimization Algorithm on the
+  Maximum Cut Problem}.
+\newblock \emph{arXiv e-prints}, art. arXiv:1811.08419, November 2018.
+
+\bibitem[Dantzig(1951)]{simplex}
+George~B. Dantzig.
+\newblock Maximization of a linear function of variables subject to linear
+  inequalities.
+\newblock \emph{Activity analysis of production and allocation}, 13:\penalty0
+  339--347, 1951.
+
+\bibitem[Dantzig(1930)]{Knapsack2}
+Tobias Dantzig.
+\newblock \emph{{Numbers: The Language of Science}}.
+\newblock Macmillan, 1930.
+
+\bibitem[Das et~al.(2003)Das, Kobes, and Kunstatter]{adiabatic-evolution1}
+Saurya Das, Randy Kobes, and Gabor Kunstatter.
+\newblock Energy and efficiency of adiabatic quantum search algorithms.
+\newblock \emph{Journal of Physics A: Mathematical and General}, 36\penalty0
+  (11):\penalty0 2839, 2003.
+
+\bibitem[{Farhi} and {Harrow}(2016)]{FH16}
+Edward {Farhi} and Aram~W. {Harrow}.
+\newblock {Quantum Supremacy through the Quantum Approximate Optimization
+  Algorithm}.
+\newblock \emph{arXiv e-prints}, art. arXiv:1602.07674, February 2016.
+
+\bibitem[{Farhi} et~al.(2000){Farhi}, {Goldstone}, {Gutmann}, and
+  {Sipser}]{FGGS2000}
+Edward {Farhi}, Jeffrey {Goldstone}, Sam {Gutmann}, and Michael {Sipser}.
+\newblock {Quantum Computation by Adiabatic Evolution}.
+\newblock \emph{arXiv e-prints}, art. quant-ph/0001106, January 2000.
+
+\bibitem[{Farhi} et~al.(2005){Farhi}, {Goldstone}, {Gutmann}, and
+  {Nagaj}]{FGGN2005}
+Edward {Farhi}, Jeffrey {Goldstone}, Sam {Gutmann}, and Daniel {Nagaj}.
+\newblock {How to Make the Quantum Adiabatic Algorithm Fail}.
+\newblock \emph{arXiv e-prints}, art. quant-ph/0512159, December 2005.
+
+\bibitem[{Farhi} et~al.(2014){Farhi}, {Goldstone}, and {Gutmann}]{FGG14}
+Edward {Farhi}, Jeffrey {Goldstone}, and Sam {Gutmann}.
+\newblock {A Quantum Approximate Optimization Algorithm}.
+\newblock \emph{arXiv e-prints}, art. arXiv:1411.4028, November 2014.
+
+\bibitem[Fletcher(2013)]{BFGS}
+Roger Fletcher.
+\newblock \emph{Practical methods of optimization}.
+\newblock John Wiley \& Sons, 2013.
+
+\bibitem[{Goemans} and {Williamson}(1995)]{GW95}
+Michel~X. {Goemans} and David~P. {Williamson}.
+\newblock Improved approximation algorithms for maximum cut and satisfiability
+  problems using semidefinite programming.
+\newblock \emph{Journal of the Association for Computing Machinery},
+  42\penalty0 (6):\penalty0 1115--1145, November 1995.
+
+\bibitem[{Griffiths}(2015)]{Griffiths}
+David~J. {Griffiths}.
+\newblock \emph{Introduction to Quantum Mechanics}.
+\newblock Pearson, second edition, 2015.
+\newblock ISBN 978-93-325-4289-1.
+
+\bibitem[{Grover}(1996)]{Grover96}
+Lov~K. {Grover}.
+\newblock {A fast quantum mechanical algorithm for database search}.
+\newblock \emph{arXiv e-prints}, art. quant-ph/9605043, May 1996.
+
+\bibitem[Haber(2018)]{lecture-notes-evolution}
+Howard Haber.
+\newblock {Physics 215: Time Ordered Exponential}, dec 2018.
+\newblock URL \url{http://scipp.ucsc.edu/~haber/ph215/TimeOrderedExp.pdf}.
+
+\bibitem[Hagberg et~al.(2008)Hagberg, Schult, and Swart]{networkx}
+Aric~A. Hagberg, Daniel~A. Schult, and Pieter~J. Swart.
+\newblock {Exploring network structure, dynamics, and function using NetworkX}.
+\newblock pages 11--15, August 2008.
+
+\bibitem[{Hatano} and {Suzuki}(2005)]{Suzuki05}
+Naomichi {Hatano} and Masuo {Suzuki}.
+\newblock \emph{{Finding Exponential Product Formulas of Higher Orders}},
+  volume 679, page~37.
+\newblock 2005.
+\newblock \doi{10.1007/11526216_2}.
+
+\bibitem[Hidary(2019)]{Hidary}
+Jack~D. Hidary.
+\newblock \emph{Quantum Computing: An Applied Approach}.
+\newblock Springer, 2019.
+
+\bibitem[Hollbach and Li(2018)]{GW-lecture-Hollbach}
+Kevin Hollbach and Lilly Li.
+\newblock {Lecture - Goemans and Williamson Algorithm for MAXCUT}, February
+  2018.
+
+\bibitem[H\r{a}stad(2001)]{Hastad02}
+Johan H\r{a}stad.
+\newblock Some optimal inapproximability results.
+\newblock \emph{J. ACM}, 48\penalty0 (4):\penalty0 798–859, July 2001.
+\newblock ISSN 0004-5411.
+\newblock \doi{10.1145/502090.502098}.
+
+\bibitem[J{\"u}nger et~al.(1995)J{\"u}nger, Reinelt, and Rinaldi]{TSP}
+Michael J{\"u}nger, Gerhard Reinelt, and Giovanni Rinaldi.
+\newblock The traveling salesman problem.
+\newblock \emph{Handbooks in operations research and management science},
+  7:\penalty0 225--330, 1995.
+
+\bibitem[Karp(1972)]{Karp72}
+Richard~M. Karp.
+\newblock \emph{Reducibility among Combinatorial Problems}, pages 85--103.
+\newblock Springer US, Boston, MA, 1972.
+\newblock ISBN 978-1-4684-2001-2.
+\newblock \doi{10.1007/978-1-4684-2001-2_9}.
+
+\bibitem[Kennedy and Eberhart(1995)]{PSO1}
+James Kennedy and Russell~C. Eberhart.
+\newblock Particle swarm optimization.
+\newblock \emph{Proceedings of IEEE International Conference on Neural
+  Networks}, IV:\penalty0 1942–1948, 1995.
+\newblock \doi{10.1109/ICNN.1995.488968}.
+
+\bibitem[Khot(2002)]{UGC}
+Subhash Khot.
+\newblock On the power of unique 2-prover 1-round games.
+\newblock In \emph{Proceedings of the Thiry-Fourth Annual ACM Symposium on
+  Theory of Computing}, STOC ’02, page 767–775, New York, NY, USA, 2002.
+  Association for Computing Machinery.
+\newblock ISBN 1581134959.
+\newblock \doi{10.1145/509907.510017}.
+
+\bibitem[Khot et~al.(2007)Khot, Kindler, Mossel, and O’Donnell]{KKMO05}
+Subhash Khot, Guy Kindler, Elchanan Mossel, and Ryan O’Donnell.
+\newblock Optimal inapproximability results for max-cut and other 2-variable
+  csps?
+\newblock \emph{SIAM Journal on Computing}, 37\penalty0 (1):\penalty0 319--357,
+  2007.
+\newblock \doi{10.1137/S0097539705447372}.
+
+\bibitem[Klarreich(2011)]{UGC-Blog}
+Erica Klarreich.
+\newblock Approximately hard: The unique games conjecture, October 2011.
+\newblock URL
+  \url{https://www.simonsfoundation.org/2011/10/06/approximately-hard-the-unique-games-conjecture/}.
+\newblock Retrieved June 17, 2020.
+
+\bibitem[Lovasz et~al.(1988)Lovasz, Grotschel, and
+  Schrijver]{lovasz1988geometric}
+Loszlo Lovasz, Martin Grotschel, and Alexander Schrijver.
+\newblock \emph{Geometric algorithms and combinatorial optimization}.
+\newblock Springer, 1988.
+
+\bibitem[Mathews(1897)]{Knapsack1}
+George~B. Mathews.
+\newblock On the partition of numbers.
+\newblock \emph{Proceedings of the London Mathematical Society}, 28:\penalty0
+  486–490, 1897.
+
+\bibitem[Matuschak and Nielsen(2019)]{QuantumCountry}
+Andy Matuschak and Michael~A. Nielsen.
+\newblock Quantum computing for the very curious, 2019.
+\newblock URL \url{https://quantum.country/qcvc}.
+
+\bibitem[{McClean} et~al.(2016){McClean}, {Romero}, {Babbush}, and
+  {Aspuru-Guzik}]{MRBA16}
+Jarrod {McClean}, Jonathan {Romero}, Ryan {Babbush}, and Al{\'a}n
+  {Aspuru-Guzik}.
+\newblock {The theory of variational hybrid quantum-classical algorithms}.
+\newblock \emph{New Journal of Physics}, 18\penalty0 (2):\penalty0 023023,
+  February 2016.
+\newblock \doi{10.1088/1367-2630/18/2/023023}.
+
+\bibitem[Miym(2009)]{wiki:MaxCut}
+Miym.
+\newblock Max-cut, 2009.
+\newblock URL \url{https://commons.wikimedia.org/wiki/File:Max-cut.svg}.
+\newblock Retrieved May 18, 2020.
+
+\bibitem[Nelder and Mead(1965)]{NelderMead}
+John~A. Nelder and Roger Mead.
+\newblock {A Simplex Method for Function Minimization}.
+\newblock \emph{The Computer Journal}, 7\penalty0 (4):\penalty0 308--313,
+  January 1965.
+\newblock ISSN 0010-4620.
+\newblock \doi{10.1093/comjnl/7.4.308}.
+
+\bibitem[Nesterov and Nemirovskii(1994)]{nesterov1994interior}
+Yurii Nesterov and Arkadii Nemirovskii.
+\newblock \emph{Interior-point polynomial algorithms in convex programming}.
+\newblock SIAM, 1994.
+
+\bibitem[Nielsen and Chuang({2010})]{Mike&Ike}
+Michael~A. Nielsen and Isaac~L. Chuang.
+\newblock \emph{{Quantum Computation and Quantum Information}}.
+\newblock Cambridge University Press, {2010}.
+
+\bibitem[Pataki(1996)]{pataki}
+G{\'a}bor Pataki.
+\newblock {Cone-LP's and semidefinite programs: Geometry and a simplex-type
+  method}.
+\newblock In \emph{International Conference on Integer Programming and
+  Combinatorial Optimization}, pages 162--174. Springer, 1996.
+
+\bibitem[{Peruzzo} et~al.(2014){Peruzzo}, {McClean}, {Shadbolt}, {Yung},
+  {Zhou}, {Love}, {Aspuru-Guzik}, and {O'Brien}]{VQE}
+Alberto {Peruzzo}, Jarrod {McClean}, Peter {Shadbolt}, Man-Hong {Yung}, Xiao-Qi
+  {Zhou}, Peter~J. {Love}, Al{\'a}n {Aspuru-Guzik}, and Jeremy~L. {O'Brien}.
+\newblock {A variational eigenvalue solver on a photonic quantum processor}.
+\newblock \emph{Nature Communications}, 5:\penalty0 4213, July 2014.
+\newblock \doi{10.1038/ncomms5213}.
+
+\bibitem[{Preskill}(2018)]{Preskill18}
+John {Preskill}.
+\newblock {Quantum Computing in the NISQ era and beyond}.
+\newblock \emph{arXiv e-prints}, art. arXiv:1801.00862, January 2018.
+
+\bibitem[Shi and Eberhart(1998)]{PSO2}
+Yuhui Shi and Russell~C. Eberhart.
+\newblock {A modified particle swarm optimizer}.
+\newblock \emph{Proceedings of IEEE International Conference on Evolutionary
+  Computation}, page 69–73, 1998.
+\newblock \doi{10.1109/ICEC.1998.699146}.
+
+\bibitem[Shor(1994)]{Shor94}
+Peter~W. Shor.
+\newblock Algorithms for quantum computation: discrete logarithms and
+  factoring.
+\newblock In \emph{Proceedings 35th Annual Symposium on Foundations of Computer
+  Science}, pages 124--134, 1994.
+
+\bibitem[Smith et~al.(2016)Smith, Curtis, and Zeng]{pyQuil}
+Robert~S. Smith, Michael~J. Curtis, and William~J. Zeng.
+\newblock A practical quantum instruction set architecture.
+\newblock \emph{arXiv e-prints}, art. arXiv:1608.03355, August 2016.
+
+\bibitem[{Sun} et~al.(2013){Sun}, {Lu}, and {Samuel}]{adiabatic-evolution2}
+Jie {Sun}, Song-Feng {Lu}, and L.~Braunstein {Samuel}.
+\newblock {On Models of Nonlinear Evolution Paths in Adiabatic Quantum
+  Algorithms}.
+\newblock \emph{Communications in Theoretical Physics}, 59\penalty0
+  (1):\penalty0 22--26, January 2013.
+\newblock \doi{10.1088/0253-6102/59/1/05}.
+
+\bibitem[{Sun} et~al.(2018){Sun}, {Zhang}, {Byrd}, and {Wu}]{SZBW18}
+Yin {Sun}, Jun-Yi {Zhang}, Mark~S. {Byrd}, and Lian-Ao {Wu}.
+\newblock {Adiabatic Quantum Simulation Using Trotterization}.
+\newblock \emph{arXiv e-prints}, art. arXiv:1805.11568, May 2018.
+
+\bibitem[{Vaidya}(1989)]{vaidya}
+Pravin~M. {Vaidya}.
+\newblock A new algorithm for minimizing convex functions over convex sets.
+\newblock In \emph{30th Annual Symposium on Foundations of Computer Science},
+  pages 338--343, 1989.
+\newblock \doi{10.1109/SFCS.1989.63500}.
+
+\bibitem[{van Dam} et~al.(2002){van Dam}, {Mosca}, and {Vazirani}]{DMV02}
+Wim {van Dam}, Michele {Mosca}, and Umesh {Vazirani}.
+\newblock {How Powerful is Adiabatic Quantum Computation?}
+\newblock \emph{arXiv e-prints}, art. quant-ph/0206003, May 2002.
+
+\bibitem[{Verdon} et~al.(2017){Verdon}, {Broughton}, and {Biamonte}]{VBB17}
+Guillaume {Verdon}, Michael {Broughton}, and Jacob {Biamonte}.
+\newblock {A quantum algorithm to train neural networks using low-depth
+  circuits}.
+\newblock \emph{arXiv e-prints}, art. arXiv:1712.05304, December 2017.
+
+\bibitem[Wald(2017)]{ising-model}
+Sascha~S. Wald.
+\newblock \emph{Thermalisation and Relaxation of Quantum Systems}.
+\newblock PhD thesis, Institute Jean Lamour, 2017.
+
+\bibitem[Wang and Wang(2010)]{wang2010maximum}
+Rui-Sheng Wang and Li-Min Wang.
+\newblock {Maximum cut in fuzzy nature: Models and algorithms}.
+\newblock \emph{Journal of computational and applied mathematics}, 234\penalty0
+  (1):\penalty0 240--252, 2010.
+
+\bibitem[Woitzik et~al.(2020)Woitzik, Barkoutsos, Wudarski, Buchleitner, and
+  Tavernelli]{active-2}
+Andreas Woitzik, Panagiotis Barkoutsos, Filip Wudarski, Andreas Buchleitner,
+  and Ivano Tavernelli.
+\newblock Entanglement production and convergence properties of the variational
+  quantum eigensolver.
+\newblock \emph{arXiv: Quantum Physics}, 2020.
+
+\bibitem[Yamazaki et~al.(2019)Yamazaki, Matsuura, Narimani, Saidmuradov, and
+  Zaribafiyan]{vqe-figure}
+Takeshi Yamazaki, Shunji Matsuura, Ali Narimani, Anushervon Saidmuradov, and
+  Arman Zaribafiyan.
+\newblock {The Variational Quantum Eigensolver (VQE)}, 2019.
+\newblock URL \url{http://openqemist.1qbit.com/docs/vqe_microsoft_qsharp.html}.
+\newblock Retrieved May 18, 2020.
+
+\bibitem[Yao et~al.(2020)Yao, Bukov, and Lin]{Yao20}
+Jiahao Yao, Marin Bukov, and Lin Lin.
+\newblock Policy gradient based quantum approximate optimization algorithm.
+\newblock \emph{arXiv e-prints}, abs/2002.01068, 2020.
+
+\bibitem[Zhou(2019)]{genQAOA}
+Leo Zhou.
+\newblock {genQAOA}, 2019.
+\newblock URL \url{https://github.com/leologist/GenQAOA}.
+
+\bibitem[Zhou(2020)]{Zhou-email}
+Leo Zhou.
+\newblock Private communication, May 2020.
+
+\bibitem[{Zhou} et~al.(2018){Zhou}, {Wang}, {Choi}, {Pichler}, and
+  {Lukin}]{ZWCPL18}
+Leo {Zhou}, Sheng-Tao {Wang}, Soonwon {Choi}, Hannes {Pichler}, and Mikhail~D.
+  {Lukin}.
+\newblock {Quantum Approximate Optimization Algorithm: Performance, Mechanism,
+  and Implementation on Near-Term Devices}.
+\newblock \emph{arXiv e-prints}, art. arXiv:1812.01041, December 2018.
+
+\end{thebibliography}

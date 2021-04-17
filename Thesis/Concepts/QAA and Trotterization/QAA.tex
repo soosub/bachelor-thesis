@@ -1,0 +1,31 @@
+\documentclass[]{article}
+
+\usepackage{url}
+\usepackage{hyperref}
+
+%opening
+\title{Quantum Adiabatic Algorithm and Trotterization}
+\author{J. Bus}
+
+\begin{document}
+\maketitle
+
+\section{Quantum Adiabatic Algorithm}
+Have a look at the following resources
+\begin{itemize}
+	\item \href{https://arxiv.org/abs/quant-ph/0001106}{Paper} by Farhi, Goldstone, Gutmann, and Sisper
+	\item \href{https://www.scottaaronson.com/qclec/25.pdf}{Lecture} on Hamiltonians by Aaronson
+	\item \href{https://www.scottaaronson.com/qclec/26.pdf}{Lecture} on the Adiabatic Algorithm by Aaronson 
+\end{itemize}
+
+\section{Trotterization}
+From \url{https://www.scottaaronson.com/qclec/25.pdf}, slightly adapted\\
+
+Once adding Hamiltonians, one faces a mathematical question, namely: If $A$ and $B$ are matrices, is it generally the case that $e^{A+B} = e^Ae^B$ ? The answer is \textbf{no}. In the special case that $A$ and $B$ commute however, we find that the equality holds. What to do when they don't? Fortunately, there's a special trick for this, known as \textbf{Trotterization}. It uses the following approximation
+\begin{equation}
+	e^{A+B} \approx e^{\epsilon A}e^{\epsilon B}e^{\epsilon A}e^{\epsilon B}\dots e^{\epsilon A}e^{\epsilon B}
+\end{equation}
+each step $e^{\epsilon A}e^{\epsilon B}$ is repeated $1/\epsilon$ times. This basically means that we can achieve the same effect as $A$ and $B$ occurring simultaneously, by repeatedly switching between doing a tiny bit of $A$ and a tiny bit of $B$. We won’t do it here, but it’s possible to prove that the approximation improves as $\epsilon$ decreases, becoming an exact equality in the limit $\epsilon \to \infty$
+
+
+\end{document}

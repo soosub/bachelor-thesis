@@ -1,0 +1,14 @@
+\BOOKMARK [2][]{Outline0.1}{Quantum computing}{}% 1
+\BOOKMARK [2][]{Outline0.2}{Max-Cut}{}% 2
+\BOOKMARK [2][]{Outline0.3}{QAOA}{}% 3
+\BOOKMARK [3][]{Outline0.3.1.18}{The general algorithm}{Outline0.3}% 4
+\BOOKMARK [3][]{Outline0.3.2.30}{Applying QAOA to Max-Cut}{Outline0.3}% 5
+\BOOKMARK [3][]{Outline0.3.3.33}{Example - the Diamond graph}{Outline0.3}% 6
+\BOOKMARK [3][]{Outline0.3.4.39}{How to determine the parameters?}{Outline0.3}% 7
+\BOOKMARK [3][]{Outline0.3.5.40}{Relation to Quantum Adiabatic Algorithm}{Outline0.3}% 8
+\BOOKMARK [2][]{Outline0.4}{My results}{}% 9
+\BOOKMARK [3][]{Outline0.4.1.45}{Found patterns}{Outline0.4}% 10
+\BOOKMARK [3][]{Outline0.4.2.46}{Fractional error}{Outline0.4}% 11
+\BOOKMARK [2][]{Outline0.5}{Conclusions and Future Research}{}% 12
+\BOOKMARK [1][]{Outline1}{Appendix}{}% 13
+\BOOKMARK [2][]{Outline1.5.1.52}{Time complexity}{Outline1}% 14

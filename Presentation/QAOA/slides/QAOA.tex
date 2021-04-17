@@ -1,0 +1,60 @@
+% TU Delft beamer template
+% Author: Erwin Walraven (initial version was created by Maarten Abbink)
+% Delft Universiy of Technology
+
+\documentclass{beamer}
+\usepackage[dutch]{babel}
+\usepackage{calc}
+\usepackage[absolute,overlay]{textpos}
+\usepackage{graphicx}
+\usepackage{subfig}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amsthm}
+\usepackage{mathtools}
+\usepackage{comment}
+\usepackage{MnSymbol,wasysym}
+\usepackage{url}
+\usepackage{fancyhdr}
+\usepackage{subfig}
+
+\setbeamertemplate{navigation symbols}{} % remove navigation symbols
+\mode<presentation>{\usetheme{tud}}
+
+% BIB SETTINGS
+\usepackage[backend=bibtex,firstinits=true,maxnames=30,maxcitenames=20,url=false,style=authoryear]{biblatex}
+\bibliography{bibfile}
+\setlength\bibitemsep{0.3cm} % space between entries in the reference list
+\renewcommand{\bibfont}{\normalfont\scriptsize}
+\setbeamerfont{footnote}{size=\tiny}
+\renewcommand{\cite}[1]{\footnote<.->[frame]{\fullcite{#1}}}
+
+\title[]{Quantum Approximate Optimisation Algorithm}
+\institute[]{Technische Universiteit Delft, Nederland}
+\author{Joost Bus \\ \tiny{j.c.p.bus@student.tudelft.nl}}
+\date{\today}
+
+\begin{document}
+{
+\setbeamertemplate{footline}{\usebeamertemplate*{minimal footline}}
+\frame{\titlepage}
+}
+{\setbeamertemplate{footline}{\usebeamertemplate*{minimal footline}}}
+
+% Overview
+\begin{frame}{Overview}
+\tableofcontents
+\end{frame}
+
+\section{General idea}
+\begin{frame}{The general idea}
+to be continued
+\end{frame}
+
+\section{How to determine angles?}
+\begin{frame}{Determining the angles $\vec{\gamma}$ and $\vec{\beta}$}
+to be continued
+\end{frame}
+
+
+\end{document}

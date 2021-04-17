@@ -1,0 +1,4 @@
+,betas,final_simplex,fun,gammas,message,nfev,nit,p,status,success,x
+0,[0.38853929],"(array([[ 0.38853929, -1.55896444],
+       [ 0.38875708, -1.5594748 ],
+       [ 0.38871024, -1.55975736]]), array([-1., -1., -1.]))",-1.0,[-1.55896444],Optimization terminated successfully.,69.0,31.0,1.0,0.0,1.0,[ 0.38853929 -1.55896444]

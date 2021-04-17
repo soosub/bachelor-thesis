@@ -1,0 +1,3283 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.23)  7 OCT 2020 15:03
+entering extended mode
+**./report.tex
+(report.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
+(tudelft-report.cls
+Document Class: tudelft-report 2013/06/22 v1.0 TU Delft thesis class
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\book.cls"
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\bk10.clo"
+File: bk10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.st
+y"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.st
+y"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks15
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.s
+ty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.
+sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2018/02/14 3.18 The Babel package
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def
+"
+File: switch.def 2018/02/14 3.18 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-dutch\dutch.
+ldf"
+Language: dutch 2005/03/30 v3.8i Dutch support from the babel system
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2018/02/14 3.18 Babel common definitions
+\babel@savecnt=\count100
+\U@D=\dimen112
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.d
+ef")
+\bbl@dirlevel=\count101
+)
+Package babel Info: Making " an active character on input line 132.
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-english\engl
+ish.ldf"
+Language: english 2017/06/06 v3.3r English support from the babel system
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.st
+y"
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3.s
+ty"
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+\captionmargin=\dimen113
+\captionmargin@=\dimen114
+\captionwidth=\dimen115
+\caption@tempdima=\dimen116
+\caption@indent=\dimen117
+\caption@parindent=\dimen118
+\caption@hangindent=\dimen119
+)
+\c@ContinuedFloat=\count102
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.
+sty"
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip46
+\f@nch@O@elh=\skip47
+\f@nch@O@erh=\skip48
+\f@nch@O@olh=\skip49
+\f@nch@O@orh=\skip50
+\f@nch@O@elf=\skip51
+\f@nch@O@erf=\skip52
+\f@nch@O@olf=\skip53
+\f@nch@O@orf=\skip54
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\footmisc\footmisc.
+sty"
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks20
+\footnotemargin=\dimen120
+\c@pp@next@reset=\count103
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
+ty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.
+sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
+sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.
+sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+\Gm@cnth=\count104
+\Gm@cntv=\count105
+\c@Gm@tempcnt=\count106
+\Gm@bindingoffset=\dimen121
+\Gm@wd@mp=\dimen122
+\Gm@odd@mp=\dimen123
+\Gm@even@mp=\dimen124
+\Gm@layoutwidth=\dimen125
+\Gm@layoutheight=\dimen126
+\Gm@layouthoffset=\dimen127
+\Gm@layoutvoffset=\dimen128
+\Gm@dimlist=\toks21
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
+cfg"))
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
+sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen129
+\Gin@req@width=\dimen130
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.
+sty"
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hobsub\hobsub-hype
+rref.sty"
+Package: hobsub-hyperref 2019-11-14
+hobsub not currently supported, see hobsub.dtx to extract original code
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
+.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexc
+mds.sty"
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infware
+rr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluate
+x.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetke
+ys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmd
+s.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+))
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefin
+ekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdfesca
+pe.sty"
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\hycolor.s
+ty"
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\xcolor-pa
+tch.sty"
+Package: xcolor-patch 2016/05/16 xcolor patch
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\hopatch.s
+ty"
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+)))
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\letltxmac
+ro.sty"
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+))
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.s
+ty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen131
+\Hy@linkcounter=\count107
+\Hy@pagecounter=\count108
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.de
+f"
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\intcalc
+.sty"
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count109
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.
+cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4762.
+\c@Hy@tempcnt=\count110
+ ("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5115.
+\XeTeXLinkMargin=\dimen132
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\bitset.
+sty"
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\bigintc
+alc.sty"
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count111
+\Field@Width=\dimen133
+\Fld@charsize=\dimen134
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring OFF on input line 6389.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\atbegsh
+i.sty"
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+)
+\Hy@abspage=\count112
+\c@Item=\count113
+\c@Hfootnote=\count114
+)
+Package hyperref Info: Driver: hpdftex.
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.d
+ef"
+File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\atveryend
+.sty"
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count115
+\c@bookmark@seq@number=\count116
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfile
+check.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\uniquec
+ounter.sty"
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip55
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\metalogo\metalogo.
+sty"
+Package: metalogo 2010/05/29 v0.12 Extended TeX logo macros
+\xl@everylogo=\toks22
+\xl@@everylogo=\toks23
+LaTeX Info: Redefining \TeX on input line 193.
+LaTeX Info: Redefining \LaTeX on input line 202.
+LaTeX Info: Redefining \LaTeXe on input line 219.
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip56
+\bibsep=\skip57
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count117
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontendlayer\
+tikz.sty"
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf
+.sty"
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfr
+cs.sty"
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+futil-common.tex"
+\pgfutil@everybye=\toks24
+\pgfutil@tempdima=\dimen135
+\pgfutil@tempdimb=\dimen136
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+futil-common-lists.tex"))
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+futil-latex.def"
+\pgfutil@abb=\box28
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+frcs.code.tex"
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\pgf.revision
+.tex")
+Package: pgfrcs 2019/08/03 v3.1.4b (3.1.4b)
+))
+Package: pgf 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf
+core.sty"
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\systemlayer\pg
+fsys.sty"
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgfsys.code.tex"
+Package: pgfsys 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+fkeys.code.tex"
+\pgfkeys@pathtoks=\toks25
+\pgfkeys@temptoks=\toks26
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+fkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks27
+))
+\pgf@x=\dimen137
+\pgf@y=\dimen138
+\pgf@xa=\dimen139
+\pgf@ya=\dimen140
+\pgf@xb=\dimen141
+\pgf@yb=\dimen142
+\pgf@xc=\dimen143
+\pgf@yc=\dimen144
+\pgf@xd=\dimen145
+\pgf@yd=\dimen146
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count118
+\c@pgf@countb=\count119
+\c@pgf@countc=\count120
+\c@pgf@countd=\count121
+\t@pgf@toka=\toks28
+\t@pgf@tokb=\toks29
+\t@pgf@tokc=\toks30
+\pgf@sys@id@count=\count122
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgf.cfg"
+File: pgf.cfg 2019/08/03 v3.1.4b (3.1.4b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2019/08/03 v3.1.4b (3.1.4b)
+)))
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfsyssoftpath@smallbuffer@items=\count123
+\pgfsyssoftpath@bigbuffer@items=\count124
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+))
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color
+.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcore.code.tex"
+Package: pgfcore 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+.code.tex"
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+calc.code.tex"
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+util.code.tex")
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+parser.code.tex"
+\pgfmath@dimen=\dimen147
+\pgfmath@count=\count125
+\pgfmath@box=\box29
+\pgfmath@toks=\toks31
+\pgfmath@stack@operand=\toks32
+\pgfmath@stack@operation=\toks33
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.code.tex"
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.basic.code.tex")
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.trigonometric.code.tex")
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.random.code.tex")
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.comparison.code.tex")
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.base.code.tex")
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.round.code.tex")
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.misc.code.tex")
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.integerarithmetics.code.tex")))
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+float.code.tex"
+\c@pgfmathroundto@lastzeros=\count126
+))
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfint.
+code.tex")
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@picminx=\dimen148
+\pgf@picmaxx=\dimen149
+\pgf@picminy=\dimen150
+\pgf@picmaxy=\dimen151
+\pgf@pathminx=\dimen152
+\pgf@pathmaxx=\dimen153
+\pgf@pathminy=\dimen154
+\pgf@pathmaxy=\dimen155
+\pgf@xx=\dimen156
+\pgf@xy=\dimen157
+\pgf@yx=\dimen158
+\pgf@yy=\dimen159
+\pgf@zx=\dimen160
+\pgf@zy=\dimen161
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@path@lastx=\dimen162
+\pgf@path@lasty=\dimen163
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@shorten@end@additional=\dimen164
+\pgf@shorten@start@additional=\dimen165
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfpic=\box30
+\pgf@hbox=\box31
+\pgf@layerbox@main=\box32
+\pgf@picture@serial@count=\count127
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgflinewidth=\dimen166
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@pt@x=\dimen167
+\pgf@pt@y=\dimen168
+\pgf@pt@temp=\dimen169
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorequick.code.tex"
+File: pgfcorequick.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfarrowsep=\dimen170
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@max=\dimen171
+\pgf@sys@shading@range@num=\count128
+\pgf@shadingcount=\count129
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfexternal@startupbox=\box33
+))
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorerdf.code.tex"
+File: pgfcorerdf.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)))
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfm
+oduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfnodeparttextbox=\box34
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfm
+oduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\
+pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@nodesepstart=\dimen172
+\pgf@nodesepend=\dimen173
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\
+pgfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2019/08/03 v3.1.4b (3.1.4b)
+))
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgff
+or.sty"
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfk
+eys.sty"
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+fkeys.code.tex"))
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.s
+ty"
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+.code.tex"))
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+ffor.code.tex"
+Package: pgffor 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+.code.tex")
+\pgffor@iter=\dimen174
+\pgffor@skip=\dimen175
+\pgffor@stack=\toks34
+\pgffor@toks=\toks35
+))
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\tikz.code.tex"
+Package: tikz 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pg
+flibraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@plot@mark@count=\count130
+\pgfplotmarksize=\dimen176
+)
+\tikz@lastx=\dimen177
+\tikz@lasty=\dimen178
+\tikz@lastxsaved=\dimen179
+\tikz@lastysaved=\dimen180
+\tikz@lastmovetox=\dimen181
+\tikz@lastmovetoy=\dimen182
+\tikzleveldistance=\dimen183
+\tikzsiblingdistance=\dimen184
+\tikz@figbox=\box35
+\tikz@figbox@bg=\box36
+\tikz@tempbox=\box37
+\tikz@tempbox@bg=\box38
+\tikztreelevel=\count131
+\tikznumberofchildren=\count132
+\tikznumberofcurrentchild=\count133
+\tikz@fig@count=\count134
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfm
+odulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfmatrixcurrentrow=\count135
+\pgfmatrixcurrentcolumn=\count136
+\pgf@matrix@numberofcolumns=\count137
+)
+\tikz@expandcount=\count138
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)))
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlesec\titlesec.
+sty"
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box39
+\beforetitleunit=\skip58
+\aftertitleunit=\skip59
+\ttl@plus=\dimen185
+\ttl@minus=\dimen186
+\ttl@toksa=\toks36
+\titlewidth=\dimen187
+\titlewidthlast=\dimen188
+\titlewidthfirst=\dimen189
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlesec\titletoc.
+sty"
+Package: titletoc 2011/12/15 v1.6 TOC entries
+\ttl@leftsep=\dimen190
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tocbibind\tocbibin
+d.sty"
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.st
+y"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.
+tex"
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvutils
+.tex"
+\XKV@toks=\toks37
+\XKV@tempa@toks=\toks38
+)
+\XKV@depth=\count139
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\adjustbox\adjustbo
+x.sty"
+Package: adjustbox 2019/01/04 v1.2 Adjusting TeX boxes (trim, clip, ...)
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\adjustbox\adjcalc.
+sty"
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\adjustbox\trimclip
+.sty"
+Package: trimclip 2018/04/08 v1.1 Trim and clip general TeX material
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\collectbox\collect
+box.sty"
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box40
+)
+\tc@llx=\dimen191
+\tc@lly=\dimen192
+\tc@urx=\dimen193
+\tc@ury=\dimen194
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\adjustbox\tc-pdfte
+x.def"
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen195
+\adjbox@Height=\dimen196
+\adjbox@Depth=\dimen197
+\adjbox@Totalheight=\dimen198
+\adjbox@pwidth=\dimen199
+\adjbox@pheight=\dimen256
+\adjbox@pdepth=\dimen257
+\adjbox@ptotalheight=\dimen258
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ifoddpage\ifoddpag
+e.sty"
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count140
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ltxmisc\varwidth.s
+ty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box41
+\sift@deathcycles=\count141
+\@vwid@loff=\dimen259
+\@vwid@roff=\dimen260
+))
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks39
+\inpenc@posthook=\toks40
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+0232 (decimal 562)
+   defining Unicode char U+0233 (decimal 563)
+   defining Unicode char U+1E02 (decimal 7682)
+   defining Unicode char U+1E03 (decimal 7683)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2010 (decimal 8208)
+   defining Unicode char U+2011 (decimal 8209)
+   defining Unicode char U+2012 (decimal 8210)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2015 (decimal 8213)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+1E20 (decimal 7712)
+   defining Unicode char U+1E21 (decimal 7713)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+)) (roboto.sty
+Package: roboto 2015/04/16 (Bob Tennent) Supports Roboto fonts for all LaTeX en
+gines.
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.dfu"
+File: ts1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+))
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+) ("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty
+"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fontaxes\fontaxes.
+sty"
+Package: fontaxes 2014/03/23 v1.0d Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \scshape on input line 37.
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mweights\mweights.
+sty"
+Package: mweights 2017/03/30 (Bob Tennent) Support package for multiple-weight 
+font packages. 
+LaTeX Info: Redefining \bfseries on input line 22.
+LaTeX Info: Redefining \mdseries on input line 30.
+LaTeX Info: Redefining \rmfamily on input line 38.
+LaTeX Info: Redefining \sffamily on input line 66.
+LaTeX Info: Redefining \ttfamily on input line 94.
+)
+LaTeX Info: Redefining \oldstylenums on input line 188.
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fourier\fourier.st
+y"
+Package: fourier 2020/03/03 2.2 fourier-GUTenberg package
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\iftex.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+Now handling font encoding FML ...
+... no UTF-8 mapping file for font encoding FML
+Now handling font encoding FMS ...
+... no UTF-8 mapping file for font encoding FMS
+Now handling font encoding FMX ...
+... no UTF-8 mapping file for font encoding FMX
+ ("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+ ("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fourier\fourier-or
+ns.sty"
+Package: fourier-orns 2020/03/03 2.2 fourier-ornaments package
+)
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 63.
+LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
+(Font)              `operators' in the math version `normal' on input line 63.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> T1/futs/m/n on input line 63.
+LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
+(Font)              `operators' in the math version `bold' on input line 63.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> T1/futs/m/n on input line 63.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  T1/futs/m/n --> T1/futs/b/n on input line 64.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 72.
+LaTeX Font Info:    Encoding `OML' has changed to `FML' for symbol font
+(Font)              `letters' in the math version `normal' on input line 72.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> FML/futmi/m/it on input line 72.
+LaTeX Font Info:    Encoding `OML' has changed to `FML' for symbol font
+(Font)              `letters' in the math version `bold' on input line 72.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> FML/futmi/m/it on input line 72.
+\symotherletters=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  FML/futmi/m/it --> FML/futmi/b/it on input line 74.
+LaTeX Font Info:    Overwriting symbol font `otherletters' in version `bold'
+(Font)                  FML/futm/m/it --> FML/futm/b/it on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 76.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 78.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 79.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 80.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 83.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 86.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 126.
+LaTeX Font Info:    Encoding `OMS' has changed to `FMS' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 126.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> FMS/futm/m/n on input line 126.
+LaTeX Font Info:    Encoding `OMS' has changed to `FMS' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 126.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> FMS/futm/m/n on input line 126.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 127.
+LaTeX Font Info:    Encoding `OMX' has changed to `FMX' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 1
+27.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> FMX/futm/m/n on input line 127.
+LaTeX Font Info:    Encoding `OMX' has changed to `FMX' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 127
+.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> FMX/futm/m/n on input line 127.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 128.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> T1/futs/bx/n on input line 128.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> T1/futs/bx/n on input line 128.
+LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 129.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 130.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> T1/futs/m/it on input line 130.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> T1/futs/m/it on input line 130.
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 131.
+LaTeX Font Info:    Redeclaring math symbol \varkappa on input line 132.
+LaTeX Font Info:    Redeclaring math symbol \leqslant on input line 138.
+LaTeX Font Info:    Redeclaring math symbol \geqslant on input line 139.
+LaTeX Font Info:    Redeclaring math symbol \vDash on input line 142.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangleleft on input line 14
+3.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangleright on input line 1
+44.
+LaTeX Font Info:    Redeclaring math symbol \nleqslant on input line 145.
+LaTeX Font Info:    Redeclaring math symbol \ngeqslant on input line 146.
+LaTeX Font Info:    Redeclaring math symbol \parallel on input line 147.
+LaTeX Font Info:    Redeclaring math symbol \nparallel on input line 148.
+LaTeX Font Info:    Redeclaring math symbol \nvDash on input line 150.
+LaTeX Font Info:    Redeclaring math symbol \intercal on input line 151.
+LaTeX Font Info:    Redeclaring math symbol \hslash on input line 152.
+LaTeX Font Info:    Redeclaring math symbol \nexists on input line 153.
+LaTeX Font Info:    Redeclaring math symbol \complement on input line 154.
+LaTeX Font Info:    Redeclaring math symbol \varsubsetneq on input line 155.
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 161.
+LaTeX Font Info:    Redeclaring math symbol \smallsetminus on input line 162.
+LaTeX Font Info:    Redeclaring math symbol \subsetneqq on input line 163.
+LaTeX Font Info:    Redeclaring math symbol \rightrightarrows on input line 164
+.
+LaTeX Font Info:    Redeclaring math symbol \leftleftarrows on input line 165.
+LaTeX Font Info:    Redeclaring math symbol \square on input line 166.
+LaTeX Font Info:    Redeclaring math symbol \curvearrowleft on input line 167.
+LaTeX Font Info:    Redeclaring math symbol \curvearrowright on input line 168.
+
+LaTeX Font Info:    Redeclaring math symbol \blacksquare on input line 169.
+LaTeX Font Info:    Redeclaring math symbol \varkappa on input line 199.
+LaTeX Font Info:    Redeclaring math symbol \varvarrho on input line 200.
+LaTeX Font Info:    Redeclaring math delimiter \Vert on input line 223.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 228.
+LaTeX Font Info:    Redeclaring math delimiter \lvert on input line 230.
+LaTeX Font Info:    Redeclaring math delimiter \rvert on input line 232.
+LaTeX Font Info:    Redeclaring math delimiter \lVert on input line 234.
+LaTeX Font Info:    Redeclaring math delimiter \rVert on input line 236.
+LaTeX Font Info:    Redeclaring math delimiter \Downarrow on input line 238.
+LaTeX Font Info:    Redeclaring math delimiter \backslash on input line 240.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 242.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 244.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 246.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 248.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 250.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 252.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 254.
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 256.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 260.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 261.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 262.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 263.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 264.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 265.
+LaTeX Font Info:    Redeclaring math accent \check on input line 266.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 267.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 268.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 269.
+\symUfutm=\mathgroup7
+)
+\@cover@imagewidth=\skip60
+\@cover@spinewidth=\skip61
+\@cover@frontboxwidth=\skip62
+\@cover@frontboxheight=\skip63
+\@cover@fronttextwidth=\skip64
+\@cover@fronttextheight=\skip65
+\@cover@splitboxwidth=\skip66
+\@cover@splitboxheight=\skip67
+\@cover@splitboxtextwidth=\skip68
+\@cover@splittextheight=\skip69
+\@cover@x=\skip70
+\@cover@y=\skip71
+\@cover@ax=\skip72
+\@cover@ay=\skip73
+\@cover@margin=\skip74
+Package hyperref Info: Option `colorlinks' set `true' on input line 658.
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\changes\changes.st
+y"
+Package: changes 2019/11/17 v3.2.1 changes package
+
+*** changes package 2019/11/17 v3.2.1 ***
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xifthen\xifthen.st
+y"
+Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
+ ("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count142
+\calc@Bcount=\count143
+\calc@Adimen=\dimen261
+\calc@Bdimen=\dimen262
+\calc@Askip=\skip75
+\calc@Bskip=\skip76
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count144
+\calc@Cskip=\skip77
+) ("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ifmtarg\ifmtarg.st
+y"
+Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
+))
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xstring\xstring.st
+y"
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xstring\xstring.
+tex"
+\integerpart=\count145
+\decimalpart=\count146
+)
+Package: xstring 2019/02/06 v1.83 String manipulations (CT)
+)
+ulem-option 'normalem,normalbf', passed to package ulem
+truncate-option 'breakall,fit', passed to package truncate
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ulem\ulem.sty"
+\UL@box=\box42
+\UL@hyphenbox=\box43
+\UL@skip=\skip78
+\UL@hook=\toks41
+\UL@height=\dimen263
+\UL@pe=\count147
+\UL@pixel=\dimen264
+\ULC@box=\box44
+Package: ulem 2012/05/18
+\ULdepth=\dimen265
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\todonotes\todonote
+s.sty"
+Package: todonotes 2019/01/24 v1.1.2 Todonotes source and documentation.
+Package: todonotes 2018/11/22
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibrarypositioning.code.tex"
+File: tikzlibrarypositioning.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibraryshadows.code.tex"
+File: tikzlibraryshadows.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibraryfadings.code.tex"
+File: tikzlibraryfadings.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pg
+flibraryfadings.code.tex"
+File: pgflibraryfadings.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)))
+\c@@todonotes@numberoftodonotes=\count148
+)
+\c@Changes@AuthorCount=\count149
+\c@Changes@Author=\count150
+\c@Changes@addedCount=\count151
+\c@Changes@deletedCount=\count152
+\c@Changes@replacedCount=\count153
+\c@Changes@highlightCount=\count154
+\c@Changes@commentCount=\count155
+\c@authorcommentcount=\count156
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\truncate\truncate.
+sty"
+Package: truncate 2001/08/20  ver 3.6
+\@Trunc@RestHyph=\toks42
+)
+\Changes@truncate@width=\skip79
+\Changes@summary@width=\skip80
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count157
+\float@exts=\toks43
+\float@box=\box45
+\@float@everytoks=\toks44
+\@floatcapt=\box46
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\soul\soul.sty"
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks45
+\SOUL@lasttoken=\toks46
+\SOUL@cmds=\toks47
+\SOUL@buffer=\toks48
+\SOUL@token=\toks49
+\SOUL@spaceskip=\skip81
+\SOUL@ttwidth=\dimen266
+\SOUL@uldp=\dimen267
+\SOUL@ulht=\dimen268
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\subcaption
+.sty"
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+\c@subfigure=\count158
+\c@subtable=\count159
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks50
+\thm@bodyfont=\toks51
+\thm@headfont=\toks52
+\thm@notefont=\toks53
+\thm@headpunct=\toks54
+\thm@preskip=\skip82
+\thm@postskip=\skip83
+\thm@headsep=\skip84
+\dth@everypar=\toks55
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\extarrows\extarrow
+s.sty"
+Package: extarrows 2020/03/12 v1.2.0 Some extensible arrows
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.
+sty"
+Package: csquotes 2019-12-06 v5.2j context-sensitive quotations (JAW)
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.
+sty"
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count160
+)
+\csq@reset=\count161
+\csq@gtype=\count162
+\csq@glevel=\count163
+\csq@qlevel=\count164
+\csq@maxlvl=\count165
+\csq@tshold=\count166
+\csq@ltx@everypar=\toks56
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.
+def"
+File: csquotes.def 2019-12-06 v5.2j csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.
+cfg"
+File: csquotes.cfg 
+))
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mathtool
+s.sty"
+Package: mathtools 2019/07/31 v1.22 mathematical typesetting tools
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mhsetup.
+sty"
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count167
+\l_MT_multwidth_dim=\dimen269
+\origjot=\skip85
+\l_MT_shortvdotswithinadjustabove_dim=\dimen270
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen271
+\l_MT_above_intertext_sep=\dimen272
+\l_MT_below_intertext_sep=\dimen273
+\l_MT_above_shortintertext_sep=\dimen274
+\l_MT_below_shortintertext_sep=\dimen275
+) (qcircuit.sty
+Package: qcircuit 2018/08/14
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xy.sty"
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xy.tex"
+Bootstrap'ing: catcodes, docmode,
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xyrecat.te
+x")
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xyidioms.t
+ex")
+
+ Xy-pic version 3.8.9 <2013/10/06>
+ Copyright (c) 1991-2013 by Kristoffer H. Rose <krisrose@tug.org> and others
+ Xy-pic is free software: see the User's Guide for details.
+
+Loading kernel: messages; fonts; allocations: state,
+\X@c=\dimen276
+\Y@c=\dimen277
+\U@c=\dimen278
+\D@c=\dimen279
+\L@c=\dimen280
+\R@c=\dimen281
+\Edge@c=\toks57
+\X@p=\dimen282
+\Y@p=\dimen283
+\U@p=\dimen284
+\D@p=\dimen285
+\L@p=\dimen286
+\R@p=\dimen287
+\Edge@p=\toks58
+\X@origin=\dimen288
+\Y@origin=\dimen289
+\X@xbase=\dimen290
+\Y@xbase=\dimen291
+\X@ybase=\dimen292
+\Y@ybase=\dimen293
+\X@min=\dimen294
+\Y@min=\dimen295
+\X@max=\dimen296
+\Y@max=\dimen297
+\lastobjectbox@=\box47
+\zerodotbox@=\box48
+\almostz@=\dimen298
+ direction,
+\d@X=\dimen299
+\d@Y=\dimen300
+\K@=\count168
+\KK@=\count169
+\Direction=\count170
+\K@dXdY=\dimen301
+\K@dYdX=\dimen302
+\xyread@=\read2
+\xywrite@=\write4
+\csp@=\count171
+\quotPTK@=\dimen303
+
+utility macros; pictures: \xy, positions,
+\swaptoks@@=\toks59
+\connectobjectbox@@=\box49
+ objects,
+\styletoks@=\toks60
+ decorations;
+kernel objects: directionals, circles, text; options; algorithms: directions,
+edges, connections;  Xy-pic loaded)
+Package: xy 2013/10/06 Xy-pic version 3.8.9
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xypdf.tex"
+ Xy-pic option: PDF driver v.1.7 loaded))
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xymatrix.t
+ex"  Xy-pic option: Matrix feature v.3.14
+\Row=\count172
+\Col=\count173
+\queue@=\toks61
+\queue@@=\toks62
+\qcount@=\count174
+\qcount@@=\count175
+\matrixsize@=\count176
+ loaded)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xyframe.te
+x"  Xy-pic option: Frame and Bracket extension v.3.14 loaded)
+Xy-pic pdf driver: `frame' extension support
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xypdf-fr.t
+ex"
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xycurve.te
+x"  Xy-pic option: Curve and Spline extension v.3.12 curve,
+\crv@cnt@=\count177
+\crvpts@=\toks63
+\splinebox@=\box50
+\splineval@=\dimen304
+\splinedepth@=\dimen305
+\splinetol@=\dimen306
+\splinelength@=\dimen307
+ circles,
+\L@=\dimen308
+ loaded)
+Xy-pic pdf driver: `curve' extension support
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xypdf-cu.t
+ex" loaded) loaded)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xyarrow.te
+x"  Xy-pic option: Arrow and Path feature v.3.9 path, \ar, loaded)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xyarc.tex"
+ Xy-pic option: Circle, Ellipse, Arc feature v.3.8 circles, ellipses,
+elliptical arcs, loaded))
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\optidef\optidef.st
+y"
+Package: optidef 2019/04/23 - version=3.1, Package for defining optimization pr
+oblems
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\environ\environ.st
+y"
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\trimspaces\trimspa
+ces.sty"
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xparse\
+xparse.sty"
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
+"
+Package: expl3 2018-12-12 L3 programming layer (loader) 
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3-cod
+e.tex"
+Package: expl3 2018-12-12 L3 programming layer (code)
+\c_max_int=\count178
+\l_tmpa_int=\count179
+\l_tmpb_int=\count180
+\g_tmpa_int=\count181
+\g_tmpb_int=\count182
+\g__kernel_prg_map_int=\count183
+\c_log_iow=\count184
+\l_iow_line_count_int=\count185
+\l__iow_line_target_int=\count186
+\l__iow_one_indent_int=\count187
+\l__iow_indent_int=\count188
+\c_zero_dim=\dimen309
+\c_max_dim=\dimen310
+\l_tmpa_dim=\dimen311
+\l_tmpb_dim=\dimen312
+\g_tmpa_dim=\dimen313
+\g_tmpb_dim=\dimen314
+\c_zero_skip=\skip86
+\c_max_skip=\skip87
+\l_tmpa_skip=\skip88
+\l_tmpb_skip=\skip89
+\g_tmpa_skip=\skip90
+\g_tmpb_skip=\skip91
+\c_zero_muskip=\muskip12
+\c_max_muskip=\muskip13
+\l_tmpa_muskip=\muskip14
+\l_tmpb_muskip=\muskip15
+\g_tmpa_muskip=\muskip16
+\g_tmpb_muskip=\muskip17
+\l_keys_choice_int=\count189
+\l__intarray_loop_int=\count190
+\c__intarray_sp_dim=\dimen315
+\g__intarray_font_int=\count191
+\c__fp_leading_shift_int=\count192
+\c__fp_middle_shift_int=\count193
+\c__fp_trailing_shift_int=\count194
+\c__fp_big_leading_shift_int=\count195
+\c__fp_big_middle_shift_int=\count196
+\c__fp_big_trailing_shift_int=\count197
+\c__fp_Bigg_leading_shift_int=\count198
+\c__fp_Bigg_middle_shift_int=\count199
+\c__fp_Bigg_trailing_shift_int=\count266
+\c__kernel_randint_max_int=\count267
+\g__fp_array_int=\count268
+\l__fp_array_loop_int=\count269
+\l__sort_length_int=\count270
+\l__sort_min_int=\count271
+\l__sort_top_int=\count272
+\l__sort_max_int=\count273
+\l__sort_true_max_int=\count274
+\l__sort_block_int=\count275
+\l__sort_begin_int=\count276
+\l__sort_end_int=\count277
+\l__sort_A_int=\count278
+\l__sort_B_int=\count279
+\l__sort_C_int=\count280
+\l__tl_analysis_normal_int=\count281
+\l__tl_analysis_index_int=\count282
+\l__tl_analysis_nesting_int=\count283
+\l__tl_analysis_type_int=\count284
+\l__regex_internal_a_int=\count285
+\l__regex_internal_b_int=\count286
+\l__regex_internal_c_int=\count287
+\l__regex_balance_int=\count288
+\l__regex_group_level_int=\count289
+\l__regex_mode_int=\count290
+\c__regex_cs_in_class_mode_int=\count291
+\c__regex_cs_mode_int=\count292
+\l__regex_catcodes_int=\count293
+\l__regex_default_catcodes_int=\count294
+\c__regex_catcode_D_int=\count295
+\c__regex_catcode_S_int=\count296
+\c__regex_catcode_L_int=\count297
+\c__regex_catcode_O_int=\count298
+\c__regex_catcode_A_int=\count299
+\c__regex_all_catcodes_int=\count300
+\l__regex_show_lines_int=\count301
+\l__regex_min_state_int=\count302
+\l__regex_max_state_int=\count303
+\l__regex_left_state_int=\count304
+\l__regex_right_state_int=\count305
+\l__regex_capturing_group_int=\count306
+\l__regex_min_pos_int=\count307
+\l__regex_max_pos_int=\count308
+\l__regex_curr_pos_int=\count309
+\l__regex_start_pos_int=\count310
+\l__regex_success_pos_int=\count311
+\l__regex_curr_char_int=\count312
+\l__regex_curr_catcode_int=\count313
+\l__regex_last_char_int=\count314
+\l__regex_case_changed_char_int=\count315
+\l__regex_curr_state_int=\count316
+\l__regex_step_int=\count317
+\l__regex_min_active_int=\count318
+\l__regex_max_active_int=\count319
+\l__regex_replacement_csnames_int=\count320
+\l__regex_match_count_int=\count321
+\l__regex_min_submatch_int=\count322
+\l__regex_submatch_int=\count323
+\l__regex_zeroth_submatch_int=\count324
+\g__regex_trace_regex_int=\count325
+\c_empty_box=\box51
+\l_tmpa_box=\box52
+\l_tmpb_box=\box53
+\g_tmpa_box=\box54
+\g_tmpb_box=\box55
+\l__box_top_dim=\dimen316
+\l__box_bottom_dim=\dimen317
+\l__box_left_dim=\dimen318
+\l__box_right_dim=\dimen319
+\l__box_top_new_dim=\dimen320
+\l__box_bottom_new_dim=\dimen321
+\l__box_left_new_dim=\dimen322
+\l__box_right_new_dim=\dimen323
+\l__box_internal_box=\box56
+\l__coffin_internal_box=\box57
+\l__coffin_internal_dim=\dimen324
+\l__coffin_offset_x_dim=\dimen325
+\l__coffin_offset_y_dim=\dimen326
+\l__coffin_x_dim=\dimen327
+\l__coffin_y_dim=\dimen328
+\l__coffin_x_prime_dim=\dimen329
+\l__coffin_y_prime_dim=\dimen330
+\c_empty_coffin=\box58
+\l__coffin_aligned_coffin=\box59
+\l__coffin_aligned_internal_coffin=\box60
+\l_tmpa_coffin=\box61
+\l_tmpb_coffin=\box62
+\l__coffin_display_coffin=\box63
+\l__coffin_display_coord_coffin=\box64
+\l__coffin_display_pole_coffin=\box65
+\l__coffin_display_offset_dim=\dimen331
+\l__coffin_display_x_dim=\dimen332
+\l__coffin_display_y_dim=\dimen333
+\g__file_internal_ior=\read3
+\l__coffin_bounding_shift_dim=\dimen334
+\l__coffin_left_corner_dim=\dimen335
+\l__coffin_right_corner_dim=\dimen336
+\l__coffin_bottom_corner_dim=\dimen337
+\l__coffin_top_corner_dim=\dimen338
+\l__coffin_scaled_total_height_dim=\dimen339
+\l__coffin_scaled_width_dim=\dimen340
+\l__seq_internal_a_int=\count326
+\l__seq_internal_b_int=\count327
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmode
+.def"
+File: l3pdfmode.def 2018-12-12 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count328
+))
+Package: xparse 2018-10-17 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count329
+\g__xparse_grabber_int=\count330
+\l__xparse_m_args_int=\count331
+\l__xparse_mandatory_args_int=\count332
+\l__xparse_v_nesting_int=\count333
+)
+\widthInit=\skip92
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\abstract\abstract.
+sty"
+Package: abstract 2009/06/08 v1.2a configurable abstracts
+\abstitleskip=\skip93
+\absleftindent=\skip94
+\absrightindent=\skip95
+\absparindent=\skip96
+\absparsep=\skip97
+) ("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\bm.sty"
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup8
+\symboldletters=\mathgroup9
+\symboldotherletters=\mathgroup10
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+) ("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\doi\doi.sty"
+Package: doi 2018/09/09 handle doi numbers
+)
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 27.
+LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `normal'
+(Font)                  FMS/futm/m/n --> OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `bold'
+(Font)                  FMS/futm/m/n --> OMS/cmsy/m/n on input line 27.
+\c@lemma=\count334
+\c@theorem=\count335
+\c@definition=\count336
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'english'.
+
+
+LaTeX Warning: Unused global option(s):
+    [whitelogo].
+
+(report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 51.
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 51.
+LaTeX Font Info:    Try loading font information for FML+futm on input line 51.
+
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fourier\fmlfutm.fd
+"
+File: fmlfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futm.
+)
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 51.
+LaTeX Font Info:    Try loading font information for FMS+futm on input line 51.
+
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fourier\fmsfutm.fd
+"
+File: fmsfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FMS/futm.
+)
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 51.
+LaTeX Font Info:    Try loading font information for FMX+futm on input line 51.
+
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fourier\fmxfutm.fd
+"
+File: fmxfutm.fd futm-extension
+)
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Try loading font information for T1+futs on input line 51.
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fourier\t1futs.fd"
+File: t1futs.fd 2004/03/02 Fontinst v1.926 font definitions for T1/futs.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(59.75076pt, 448.1309pt, 89.6262pt)
+* v-part:(T,H,B)=(67.60269pt, 676.04005pt, 101.4041pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=448.1309pt
+* \textheight=676.04005pt
+* \oddsidemargin=-12.51923pt
+* \evensidemargin=17.35622pt
+* \topmargin=-34.73479pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=125.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
+ii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count337
+\scratchdimen=\dimen341
+\scratchbox=\box66
+\nofMPsegments=\count338
+\nofMParguments=\count339
+\everyMPshowfont=\toks64
+\MPscratchCnt=\count340
+\MPscratchDim=\dimen342
+\MPnumerator=\count341
+\makeMPintoPDFobject=\count342
+\everyMPtoPDFconversion=\toks65
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
+base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
+y"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\AtBeginShipoutBox=\box67
+Package hyperref Info: Link coloring ON on input line 51.
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.s
+ty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\refcount.
+sty"
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+)
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitl
+estring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count343
+)
+LaTeX Info: Redefining \ref on input line 51.
+LaTeX Info: Redefining \pageref on input line 51.
+LaTeX Info: Redefining \nameref on input line 51.
+ (report.out) (report.out)
+\@outlinefile=\write5
+\openout5 = `report.out'.
+
+ ABD: EveryShipout initializing macros
+\c@mv@tabular=\count344
+\c@mv@boldtabular=\count345
+LaTeX Font Info:    Try loading font information for FML+futmi on input line 51
+.
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fourier\fmlfutmi.f
+d"
+File: fmlfutmi.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futmi.
+)
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 9.19998pt on input line 51.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 6.99199pt on input line 51.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 5.51999pt on input line 51.
+LaTeX Font Info:    Try loading font information for U+msa on input line 51.
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 51.
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 9.19998pt on input line 51.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 6.99199pt on input line 51.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 5.51999pt on input line 51.
+Package xypdf Info: Line width: 0.53358pt on input line 51.
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(0.0pt, 597.50787pt, 0.0pt)
+* v-part:(T,H,B)=(0.0pt, 845.04684pt, 0.0pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=597.50787pt
+* \textheight=845.04684pt
+* \oddsidemargin=-72.26999pt
+* \evensidemargin=-72.26999pt
+* \topmargin=-102.33748pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=125.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\GPT@outputbox=\box68
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibrarycalc.code.tex"
+File: tikzlibrarycalc.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+<cover/logo_black.pdf, id=198, 125.46875pt x 77.28876pt>
+File: cover/logo_black.pdf Graphic file (type pdf)
+<use cover/logo_black.pdf>
+Package pdftex.def Info: cover/logo_black.pdf  used on input line 93.
+(pdftex.def)             Requested size: 125.46843pt x 77.28856pt.
+LaTeX Font Info:    Try loading font information for T1+fla on input line 93.
+LaTeX Font Info:    No file T1fla.fd. on input line 93.
+
+
+LaTeX Font Warning: Font shape `T1/fla/m/n' undefined
+(Font)              using `T1/cmr/m/n' instead on input line 93.
+
+
+LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <58> not available
+(Font)              size <35.83> substituted on input line 93.
+
+
+Underfull \hbox (badness 7326) in paragraph at lines 93--93
+[]\T1/cmr/m/n/35.83 The Quan-tum Ap-prox-i-mate
+ []
+
+
+LaTeX Font Warning: Font shape `T1/fla/m/n' in size <52> not available
+(Font)              size <35.83> substituted on input line 93.
+
+[1
+
+
+
+
+{C:/Users/joost/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./cover/log
+o_black.pdf>] (title.tex [2
+
+
+]
+LaTeX Font Info:    Try loading font information for T1+Roboto-LF on input line
+ 10.
+
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\roboto\t1roboto-lf
+.fd"
+File: T1Roboto-LF.fd 2019/12/11 (autoinst) Font definitions for T1/Roboto-LF.
+)
+
+LaTeX Font Warning: Font shape `T1/Roboto-LF/t/n' undefined
+(Font)              using `T1/Roboto-LF/m/n' instead on input line 10.
+
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' will be aliased
+(Font)              to `T1/Roboto-LF/regular/n' on input line 10.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
+(Font)              scaled to size 64.0pt on input line 10.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/t/n' will be aliased
+(Font)              to `T1/Roboto-LF/regular/n' on input line 18.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
+(Font)              scaled to size 10.0pt on input line 18.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/t/n' will be aliased
+(Font)              to `T1/Roboto-LF/regular/n' on input line 18.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
+(Font)              scaled to size 22.0pt on input line 18.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/t/n' will be aliased
+(Font)              to `T1/Roboto-LF/regular/n' on input line 35.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
+(Font)              scaled to size 26.0pt on input line 35.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 70.
+("C:\Users\joost\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+File: cover/logo_black.pdf Graphic file (type pdf)
+<use cover/logo_black.pdf>
+Package pdftex.def Info: cover/logo_black.pdf  used on input line 80.
+(pdftex.def)             Requested size: 125.46843pt x 77.28856pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.84 \end{titlepage}
+                     [1]) (preface.texpdfTeX warning (ext4): destination with t
+he same identifier (name{page.ii}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1 \begin{abstract}
+                     [2
+
+]
+LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <10> not available
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 1.
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.3 \end{abstract}
+                   [1])pdfTeX warning (ext4): destination with the same identif
+ier (name{page.ii}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.101 \tableofcontents
+                       [2
+
+] (report.toc
+
+LaTeX Font Warning: Font shape `T1/fla/bx/n' undefined
+(Font)              using `T1/fla/m/n' instead on input line 2.
+
+)
+\tf@toc=\write6
+\openout6 = `report.toc'.
+
+ [3] [4
+
+] (chapter-1.tex
+Chapter 1.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/t/n' will be aliased
+(Font)              to `T1/Roboto-LF/regular/n' on input line 1.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
+(Font)              scaled to size 96.0pt on input line 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+) (chapter-2.tex [1
+
+] [2
+
+]
+Chapter 2.
+LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 8.
+LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <12> not available
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 10.
+
+Overfull \hbox (1.56168pt too wide) in paragraph at lines 12--13
+\T1/futs/m/n/10 of a Boolean for-mula that can be sat-is-fied. It gen-er-al-ize
+s the Boolean sat-is-fi-a-bil-ity prob-lem which asks whether
+ []
+
+[3]
+<figures/MaxCut.png, id=383, 616.704pt x 493.24275pt>
+File: figures/MaxCut.png Graphic file (type png)
+<use figures/MaxCut.png>
+Package pdftex.def Info: figures/MaxCut.png  used on input line 34.
+(pdftex.def)             Requested size: 224.06544pt x 179.20798pt.
+ [4 <./figures/MaxCut.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 81--83
+
+ []
+
+[5] [6] [7]
+<figures/Ising-model-on-a-square-lattice.jpg, id=477, 214.79317pt x 153.27963pt
+>
+File: figures/Ising-model-on-a-square-lattice.jpg Graphic file (type jpg)
+<use figures/Ising-model-on-a-square-lattice.jpg>
+Package pdftex.def Info: figures/Ising-model-on-a-square-lattice.jpg  used on i
+nput line 174.
+(pdftex.def)             Requested size: 224.06544pt x 159.90288pt.
+) (chapter-3.tex [8 <./figures/Ising-model-on-a-square-lattice.jpg>]
+Chapter 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--9
+
+ []
+
+[9
+
+] [10]
+<figures/qaoa_idea_edit.JPG, id=526, 984.67876pt x 429.10312pt>
+File: figures/qaoa_idea_edit.JPG Graphic file (type jpg)
+<use figures/qaoa_idea_edit.JPG>
+Package pdftex.def Info: figures/qaoa_idea_edit.JPG  used on input line 110.
+(pdftex.def)             Requested size: 358.50609pt x 156.23175pt.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 7.35999pt on input line 111.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 6.25598pt on input line 111.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 7.35999pt on input line 111.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 6.25598pt on input line 111.
+
+Underfull \vbox (badness 8056) has occurred while \output is active []
+
+ [11]
+<xymatrix 5x2 212> [12 <./figures/qaoa_idea_edit.JPG>] <xymatrix 5x1 151>
+<xymatrix 7x2 493> <xymatrix 7x2 493>
+<figures/diamond-graph-edges.png, id=555, 481.8pt x 358.33875pt>
+File: figures/diamond-graph-edges.png Graphic file (type png)
+<use figures/diamond-graph-edges.png>
+Package pdftex.def Info: figures/diamond-graph-edges.png  used on input line 19
+1.
+(pdftex.def)             Requested size: 156.84854pt x 116.65555pt.
+<figures/circuit_diamond_edit2.png, id=557, 1163.84813pt x 273.27094pt>
+File: figures/circuit_diamond_edit2.png Graphic file (type png)
+<use figures/circuit_diamond_edit2.png>
+Package pdftex.def Info: figures/circuit_diamond_edit2.png  used on input line 
+200.
+(pdftex.def)             Requested size: 448.1309pt x 105.22005pt.
+ [13 <./figures/diamond-graph-edges.png> <./figures/circuit_diamond_edit2.png>]
+<figures/histogram/diamond_p1.png, id=571, 609.9588pt x 344.0052pt>
+File: figures/histogram/diamond_p1.png Graphic file (type png)
+<use figures/histogram/diamond_p1.png>
+Package pdftex.def Info: figures/histogram/diamond_p1.png  used on input line 2
+12.
+(pdftex.def)             Requested size: 277.83896pt x 156.69582pt.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 8.27998pt on input line 214.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 8.27998pt on input line 214.
+<figures/histogram/diamond_p2.png, id=572, 609.2361pt x 344.0052pt>
+File: figures/histogram/diamond_p2.png Graphic file (type png)
+<use figures/histogram/diamond_p2.png>
+Package pdftex.def Info: figures/histogram/diamond_p2.png  used on input line 2
+20.
+(pdftex.def)             Requested size: 277.83896pt x 156.88478pt.
+<figures/histogram/diamond_p3.png, id=573, 609.9588pt x 344.0052pt>
+File: figures/histogram/diamond_p3.png Graphic file (type png)
+<use figures/histogram/diamond_p3.png>
+Package pdftex.def Info: figures/histogram/diamond_p3.png  used on input line 2
+28.
+(pdftex.def)             Requested size: 277.83896pt x 156.69582pt.
+ [14 <./figures/histogram/diamond_p1.png> <./figures/histogram/diamond_p2.png> 
+<./figures/histogram/diamond_p3.png>]
+<figures/landscape_new/diamond_3D.png, id=586, 462.528pt x 344.0052pt>
+File: figures/landscape_new/diamond_3D.png Graphic file (type png)
+<use figures/landscape_new/diamond_3D.png>
+Package pdftex.def Info: figures/landscape_new/diamond_3D.png  used on input li
+ne 257.
+(pdftex.def)             Requested size: 188.21416pt x 139.98271pt.
+
+Underfull \hbox (badness 1009) in paragraph at lines 258--258
+[]\T1/futs/m/n/9 (a) |3D plot of $\FML/futmi/m/it/9 F[]$ \T1/futs/m/n/9 for the
+ un-weighted di-a-mond
+ []
+
+<figures/landscape_new/diamond_imshow.png, id=587, 462.528pt x 344.0052pt>
+File: figures/landscape_new/diamond_imshow.png Graphic file (type png)
+<use figures/landscape_new/diamond_imshow.png>
+Package pdftex.def Info: figures/landscape_new/diamond_imshow.png  used on inpu
+t line 264.
+(pdftex.def)             Requested size: 188.21416pt x 139.98271pt.
+<figures/landscape_new/diamond_weighted_3D.png, id=588, 462.528pt x 344.0052pt>
+
+File: figures/landscape_new/diamond_weighted_3D.png Graphic file (type png)
+<use figures/landscape_new/diamond_weighted_3D.png>
+Package pdftex.def Info: figures/landscape_new/diamond_weighted_3D.png  used on
+ input line 271.
+(pdftex.def)             Requested size: 201.65753pt x 149.98224pt.
+<figures/landscape_new/diamond_weighted_imshow.png, id=589, 462.528pt x 344.005
+2pt>
+File: figures/landscape_new/diamond_weighted_imshow.png Graphic file (type png)
+
+<use figures/landscape_new/diamond_weighted_imshow.png>
+Package pdftex.def Info: figures/landscape_new/diamond_weighted_imshow.png  use
+d on input line 277.
+(pdftex.def)             Requested size: 201.65753pt x 149.98224pt.
+[15 <./figures/landscape_new/diamond_3D.png> <./figures/landscape_new/diamond_i
+mshow.png> <./figures/landscape_new/diamond_weighted_3D.png> <./figures/landsca
+pe_new/diamond_weighted_imshow.png>]
+<figures/butterfly-graph.png, id=604, 462.528pt x 344.0052pt>
+File: figures/butterfly-graph.png Graphic file (type png)
+<use figures/butterfly-graph.png>
+Package pdftex.def Info: figures/butterfly-graph.png  used on input line 289.
+(pdftex.def)             Requested size: 268.88127pt x 199.99031pt.
+<figures/landscape_new/butterfly_3D.png, id=605, 462.528pt x 344.0052pt>
+File: figures/landscape_new/butterfly_3D.png Graphic file (type png)
+<use figures/landscape_new/butterfly_3D.png>
+Package pdftex.def Info: figures/landscape_new/butterfly_3D.png  used on input 
+line 296.
+(pdftex.def)             Requested size: 224.06544pt x 166.6481pt.
+<figures/landscape_new/butterfly_imshow.png, id=606, 462.528pt x 344.0052pt>
+File: figures/landscape_new/butterfly_imshow.png Graphic file (type png)
+<use figures/landscape_new/butterfly_imshow.png>
+Package pdftex.def Info: figures/landscape_new/butterfly_imshow.png  used on in
+put line 302.
+(pdftex.def)             Requested size: 224.06544pt x 166.6481pt.
+
+Overfull \hbox (3.13997pt too wide) in paragraph at lines 294--305
+ [][]  [] 
+ []
+
+<figures/landscape_new/butterfly_weighted_3D.png, id=607, 462.528pt x 344.0052p
+t>
+File: figures/landscape_new/butterfly_weighted_3D.png Graphic file (type png)
+<use figures/landscape_new/butterfly_weighted_3D.png>
+Package pdftex.def Info: figures/landscape_new/butterfly_weighted_3D.png  used 
+on input line 309.
+(pdftex.def)             Requested size: 224.06544pt x 166.6481pt.
+<figures/landscape_new/butterfly_weighted_imshow.png, id=608, 462.528pt x 344.0
+052pt>
+File: figures/landscape_new/butterfly_weighted_imshow.png Graphic file (type pn
+g)
+<use figures/landscape_new/butterfly_weighted_imshow.png>
+Package pdftex.def Info: figures/landscape_new/butterfly_weighted_imshow.png  u
+sed on input line 315.
+(pdftex.def)             Requested size: 224.06544pt x 166.6481pt.
+
+Overfull \hbox (3.13997pt too wide) in paragraph at lines 307--318
+ [][]  [] 
+ []
+
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 11.03998pt on input line 322.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 6.43999pt on input line 322.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 11.03998pt on input line 322.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 6.43999pt on input line 322.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 322.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\to' on input line 322.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\infty' on input line 322.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 322.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16 <./figures/butterfly-graph.png> <./figures/landscape_new/butterfly_3D.png>
+ <./figures/landscape_new/butterfly_imshow.png> <./figures/landscape_new/butter
+fly_weighted_3D.png> <./figures/landscape_new/butterfly_weighted_imshow.png>] [
+17]
+<figures/VQE_overview.png, id=655, 1033.8625pt x 457.71pt>
+File: figures/VQE_overview.png Graphic file (type png)
+<use figures/VQE_overview.png>
+Package pdftex.def Info: figures/VQE_overview.png  used on input line 369.
+(pdftex.def)             Requested size: 413.53767pt x 183.08075pt.
+<figures/qaoa_idea_edit2.png, id=667, 1166.10657pt x 577.40718pt>
+File: figures/qaoa_idea_edit2.png Graphic file (type png)
+<use figures/qaoa_idea_edit2.png>
+Package pdftex.def Info: figures/qaoa_idea_edit2.png  used on input line 390.
+(pdftex.def)             Requested size: 313.69026pt x 155.32053pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18 <./figures/VQE_overview.png>] [19 <./figures/qaoa_idea_edit2.png>] [20]
+<figures/concept_relation_qaoa_and_qaa_edit.jpg, id=739, 543.2295pt x 523.9575p
+t>
+File: figures/concept_relation_qaoa_and_qaa_edit.jpg Graphic file (type jpg)
+<use figures/concept_relation_qaoa_and_qaa_edit.jpg>
+Package pdftex.def Info: figures/concept_relation_qaoa_and_qaa_edit.jpg  used o
+n input line 485.
+(pdftex.def)             Requested size: 179.24962pt x 172.89052pt.
+<figures/spectralGap.png, id=745, 486.01575pt x 360.1455pt>
+File: figures/spectralGap.png Graphic file (type png)
+<use figures/spectralGap.png>
+Package pdftex.def Info: figures/spectralGap.png  used on input line 499.
+(pdftex.def)             Requested size: 224.06544pt x 166.03712pt.
+ [21 <./figures/concept_relation_qaoa_and_qaa_edit.jpg> <./figures/spectralGap.
+png>])
+(chapter-4.tex [22]
+Chapter 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--7
+
+ []
+
+<figures/patterns-u3R.jpg, id=768, 567.11874pt x 371.3875pt>
+File: figures/patterns-u3R.jpg Graphic file (type jpg)
+<use figures/patterns-u3R.jpg>
+Package pdftex.def Info: figures/patterns-u3R.jpg  used on input line 16.
+(pdftex.def)             Requested size: 224.06544pt x 146.73328pt.
+<figures/patterns-w3R.jpg, id=769, 313.17pt x 208.98074pt>
+File: figures/patterns-w3R.jpg Graphic file (type jpg)
+<use figures/patterns-w3R.jpg>
+Package pdftex.def Info: figures/patterns-w3R.jpg  used on input line 22.
+(pdftex.def)             Requested size: 224.06544pt x 149.52531pt.
+
+Overfull \hbox (3.13997pt too wide) in paragraph at lines 14--25
+ [][]  [] 
+ []
+
+[23
+
+ <./figures/patterns-u3R.jpg> <./figures/patterns-w3R.jpg>]
+<figures/patterns-crooks.jpg, id=780, 447.47176pt x 472.164pt>
+File: figures/patterns-crooks.jpg Graphic file (type jpg)
+<use figures/patterns-crooks.jpg>
+Package pdftex.def Info: figures/patterns-crooks.jpg  used on input line 33.
+(pdftex.def)             Requested size: 223.73532pt x 236.08142pt.
+<figures/heuristic_optimal_params.png, id=789, 337.26pt x 263.18324pt>
+File: figures/heuristic_optimal_params.png Graphic file (type png)
+<use figures/heuristic_optimal_params.png>
+Package pdftex.def Info: figures/heuristic_optimal_params.png  used on input li
+ne 58.
+(pdftex.def)             Requested size: 201.65753pt x 157.36902pt.
+<figures/heuristic_initial_params.png, id=790, 330.033pt x 263.7855pt>
+File: figures/heuristic_initial_params.png Graphic file (type png)
+<use figures/heuristic_initial_params.png>
+Package pdftex.def Info: figures/heuristic_initial_params.png  used on input li
+ne 63.
+(pdftex.def)             Requested size: 201.65753pt x 161.17859pt.
+ [24 <./figures/patterns-crooks.jpg>]
+<figures/fraction.png, id=804, 462.528pt x 344.0052pt>
+File: figures/fraction.png Graphic file (type png)
+<use figures/fraction.png>
+Package pdftex.def Info: figures/fraction.png  used on input line 82.
+(pdftex.def)             Requested size: 259.91673pt x 193.32397pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25 <./figures/heuristic_optimal_params.png> <./figures/heuristic_initial_para
+ms.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+
+ []
+
+) (chapter-5.tex [26 <./figures/fraction.png>]
+Chapter 5.
+<figures/interp/FOM_12_high_p.png, id=835, 462.528pt x 344.0052pt>
+File: figures/interp/FOM_12_high_p.png Graphic file (type png)
+<use figures/interp/FOM_12_high_p.png>
+Package pdftex.def Info: figures/interp/FOM_12_high_p.png  used on input line 2
+5.
+(pdftex.def)             Requested size: 215.1009pt x 159.98175pt.
+<figures/interp/r_3-regular_12-nodal.png, id=836, 462.528pt x 344.0052pt>
+File: figures/interp/r_3-regular_12-nodal.png Graphic file (type png)
+<use figures/interp/r_3-regular_12-nodal.png>
+Package pdftex.def Info: figures/interp/r_3-regular_12-nodal.png  used on input
+ line 30.
+(pdftex.def)             Requested size: 215.1009pt x 159.98175pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27
+
+]
+<figures/interp/pattern_3-regular_12-nodal.png, id=846, 339.06676pt x 252.34274
+pt>
+File: figures/interp/pattern_3-regular_12-nodal.png Graphic file (type png)
+<use figures/interp/pattern_3-regular_12-nodal.png>
+Package pdftex.def Info: figures/interp/pattern_3-regular_12-nodal.png  used on
+ input line 40.
+(pdftex.def)             Requested size: 224.06544pt x 166.75464pt.
+<figures/interp/FOM_(unweighted)/system-size_unweighted_exp.png, id=855, 462.52
+8pt x 344.0052pt>
+File: figures/interp/FOM_(unweighted)/system-size_unweighted_exp.png Graphic fi
+le (type png)
+<use figures/interp/FOM_(unweighted)/system-size_unweighted_exp.png>
+Package pdftex.def Info: figures/interp/FOM_(unweighted)/system-size_unweighted
+_exp.png  used on input line 53.
+(pdftex.def)             Requested size: 291.28235pt x 216.65092pt.
+<figures/interp/FOM_(weighted)/SQR/system-size_sqr.png, id=856, 462.528pt x 344
+.0052pt>
+File: figures/interp/FOM_(weighted)/SQR/system-size_sqr.png Graphic file (type 
+png)
+<use figures/interp/FOM_(weighted)/SQR/system-size_sqr.png>
+Package pdftex.def Info: figures/interp/FOM_(weighted)/SQR/system-size_sqr.png 
+ used on input line 61.
+(pdftex.def)             Requested size: 291.28235pt x 216.65092pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [28 <./figures/interp/FOM_12_high_p.png> <./figures/interp/r_3-regular_12-noda
+l.png> <./figures/interp/pattern_3-regular_12-nodal.png>]
+<figures/interp/INT_n_dependence.png, id=867, 722.7pt x 430.7292pt>
+File: figures/interp/INT_n_dependence.png Graphic file (type png)
+<use figures/interp/INT_n_dependence.png>
+Package pdftex.def Info: figures/interp/INT_n_dependence.png  used on input lin
+e 76.
+(pdftex.def)             Requested size: 236.16481pt x 140.7543pt.
+<figures/RI/RI_n_dependence_3-regular_cut.png, id=868, 430.60875pt x 358.941pt>
+
+File: figures/RI/RI_n_dependence_3-regular_cut.png Graphic file (type png)
+<use figures/RI/RI_n_dependence_3-regular_cut.png>
+Package pdftex.def Info: figures/RI/RI_n_dependence_3-regular_cut.png  used on 
+input line 83.
+(pdftex.def)             Requested size: 170.29193pt x 141.95265pt.
+
+Overfull \hbox (1.56998pt too wide) in paragraph at lines 74--87
+[][] [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [29 <./figures/interp/FOM_(unweighted)/system-size_unweighted_exp.png> <./figu
+res/interp/FOM_(weighted)/SQR/system-size_sqr.png>]
+<figures/interp/function_evaluations_16-nodal_unweighted.png, id=878, 722.7pt x
+ 430.7292pt>
+File: figures/interp/function_evaluations_16-nodal_unweighted.png Graphic file 
+(type png)
+<use figures/interp/function_evaluations_16-nodal_unweighted.png>
+Package pdftex.def Info: figures/interp/function_evaluations_16-nodal_unweighte
+d.png  used on input line 95.
+(pdftex.def)             Requested size: 224.06544pt x 133.54439pt.
+<figures/interp/function_evaluations_16-nodal_weighted.png, id=879, 722.7pt x 4
+30.7292pt>
+File: figures/interp/function_evaluations_16-nodal_weighted.png Graphic file (t
+ype png)
+<use figures/interp/function_evaluations_16-nodal_weighted.png>
+Package pdftex.def Info: figures/interp/function_evaluations_16-nodal_weighted.
+png  used on input line 101.
+(pdftex.def)             Requested size: 224.06544pt x 133.54439pt.
+
+Overfull \hbox (1.56998pt too wide) in paragraph at lines 93--105
+[][] [] 
+ []
+
+<figures/interp/fom_er050.png, id=881, 462.528pt x 344.0052pt>
+File: figures/interp/fom_er050.png Graphic file (type png)
+<use figures/interp/fom_er050.png>
+Package pdftex.def Info: figures/interp/fom_er050.png  used on input line 116.
+(pdftex.def)             Requested size: 215.1009pt x 159.98175pt.
+<figures/interp/r_er050.png, id=882, 462.528pt x 344.0052pt>
+File: figures/interp/r_er050.png Graphic file (type png)
+<use figures/interp/r_er050.png>
+Package pdftex.def Info: figures/interp/r_er050.png  used on input line 122.
+(pdftex.def)             Requested size: 215.1009pt x 159.98175pt.
+<figures/interp/fom_er075.png, id=883, 462.528pt x 344.0052pt>
+File: figures/interp/fom_er075.png Graphic file (type png)
+<use figures/interp/fom_er075.png>
+Package pdftex.def Info: figures/interp/fom_er075.png  used on input line 128.
+(pdftex.def)             Requested size: 215.1009pt x 159.98175pt.
+<figures/interp/r_er075.png, id=884, 462.528pt x 344.0052pt>
+File: figures/interp/r_er075.png Graphic file (type png)
+<use figures/interp/r_er075.png>
+Package pdftex.def Info: figures/interp/r_er075.png  used on input line 134.
+(pdftex.def)             Requested size: 215.1009pt x 159.98175pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [30 <./figures/interp/INT_n_dependence.png> <./figures/RI/RI_n_dependence_3-re
+gular_cut.png> <./figures/interp/function_evaluations_16-nodal_unweighted.png> 
+<./figures/interp/function_evaluations_16-nodal_weighted.png>]
+<figures/interp/INT_n_dependence_ER050.png, id=896, 576.35326pt x 358.941pt>
+File: figures/interp/INT_n_dependence_ER050.png Graphic file (type png)
+<use figures/interp/INT_n_dependence_ER050.png>
+Package pdftex.def Info: figures/interp/INT_n_dependence_ER050.png  used on inp
+ut line 146.
+(pdftex.def)             Requested size: 228.55072pt x 142.33604pt.
+<figures/interp/INT_n_dependence_ER075.png, id=897, 441.44925pt x 358.941pt>
+File: figures/interp/INT_n_dependence_ER075.png Graphic file (type png)
+<use figures/interp/INT_n_dependence_ER075.png>
+Package pdftex.def Info: figures/interp/INT_n_dependence_ER075.png  used on inp
+ut line 153.
+(pdftex.def)             Requested size: 179.24962pt x 145.74821pt.
+
+Overfull \hbox (1.56998pt too wide) in paragraph at lines 144--157
+[][] [] 
+ []
+
+<figures/interp/function_evaluations_15-nodal_ER050.png, id=899, 722.7pt x 430.
+7292pt>
+File: figures/interp/function_evaluations_15-nodal_ER050.png Graphic file (type
+ png)
+<use figures/interp/function_evaluations_15-nodal_ER050.png>
+Package pdftex.def Info: figures/interp/function_evaluations_15-nodal_ER050.png
+  used on input line 165.
+(pdftex.def)             Requested size: 215.1009pt x 128.20103pt.
+<figures/interp/function_evaluations_15-nodal_ER075.png, id=900, 722.7pt x 430.
+7292pt>
+File: figures/interp/function_evaluations_15-nodal_ER075.png Graphic file (type
+ png)
+<use figures/interp/function_evaluations_15-nodal_ER075.png>
+Package pdftex.def Info: figures/interp/function_evaluations_15-nodal_ER075.png
+  used on input line 169.
+(pdftex.def)             Requested size: 215.1009pt x 128.20103pt.
+[31 <./figures/interp/fom_er050.png> <./figures/interp/r_er050.png> <./figures/
+interp/fom_er075.png> <./figures/interp/r_er075.png> <./figures/interp/INT_n_de
+pendence_ER050.png> <./figures/interp/INT_n_dependence_ER075.png>]
+<figures/interp/cyclic_conjecture.png, id=915, 697.4055pt x 376.5267pt>
+File: figures/interp/cyclic_conjecture.png Graphic file (type png)
+<use figures/interp/cyclic_conjecture.png>
+Package pdftex.def Info: figures/interp/cyclic_conjecture.png  used on input li
+ne 186.
+(pdftex.def)             Requested size: 403.31508pt x 217.75365pt.
+ [32 <./figures/interp/function_evaluations_15-nodal_ER050.png> <./figures/inte
+rp/function_evaluations_15-nodal_ER075.png> <./figures/interp/cyclic_conjecture
+.png>]
+<figures/interp/r_cyclic_odd.png, id=927, 462.528pt x 344.0052pt>
+File: figures/interp/r_cyclic_odd.png Graphic file (type png)
+<use figures/interp/r_cyclic_odd.png>
+Package pdftex.def Info: figures/interp/r_cyclic_odd.png  used on input line 19
+9.
+(pdftex.def)             Requested size: 224.06544pt x 166.6481pt.
+<figures/interp/r_cyclic_even.png, id=928, 462.528pt x 344.0052pt>
+File: figures/interp/r_cyclic_even.png Graphic file (type png)
+<use figures/interp/r_cyclic_even.png>
+Package pdftex.def Info: figures/interp/r_cyclic_even.png  used on input line 2
+05.
+(pdftex.def)             Requested size: 224.06544pt x 166.6481pt.
+
+Overfull \hbox (3.13997pt too wide) in paragraph at lines 197--208
+ [][]  [] 
+ []
+
+) (chapter-6.tex [33 <./figures/interp/r_cyclic_odd.png> <./figures/interp/r_cy
+clic_even.png>] [34
+
+]
+Chapter 6.
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--15
+
+ []
+
+[35]) (report.bbl [36] [37
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 229--234
+\T1/cmtt/m/n/10 simonsfoundation . org / 2011 / 10 / 06 / approximately-[]hard-
+[]the-[]unique-[]games-[]conjecture/$[][]\T1/futs/m/n/10 .
+ []
+
+[38] [39]) (appendix.tex [40]
+Appendix A.
+<figures/interp/patterns/pattern_16-nodal_p-3.png, id=997, 794.97pt x 358.4592p
+t>
+File: figures/interp/patterns/pattern_16-nodal_p-3.png Graphic file (type png)
+<use figures/interp/patterns/pattern_16-nodal_p-3.png>
+Package pdftex.def Info: figures/interp/patterns/pattern_16-nodal_p-3.png  used
+ on input line 7.
+(pdftex.def)             Requested size: 313.69026pt x 141.45035pt.
+<figures/interp/patterns/pattern_16-nodal_p-4.png, id=998, 794.97pt x 358.4592p
+t>
+File: figures/interp/patterns/pattern_16-nodal_p-4.png Graphic file (type png)
+<use figures/interp/patterns/pattern_16-nodal_p-4.png>
+Package pdftex.def Info: figures/interp/patterns/pattern_16-nodal_p-4.png  used
+ on input line 13.
+(pdftex.def)             Requested size: 313.69026pt x 141.45035pt.
+<figures/interp/patterns/pattern_16-nodal_p-5.png, id=999, 794.97pt x 358.4592p
+t>
+File: figures/interp/patterns/pattern_16-nodal_p-5.png Graphic file (type png)
+<use figures/interp/patterns/pattern_16-nodal_p-5.png>
+Package pdftex.def Info: figures/interp/patterns/pattern_16-nodal_p-5.png  used
+ on input line 19.
+(pdftex.def)             Requested size: 313.69026pt x 141.45035pt.
+[41
+
+ <./figures/interp/patterns/pattern_16-nodal_p-3.png> <./figures/interp/pattern
+s/pattern_16-nodal_p-4.png> <./figures/interp/patterns/pattern_16-nodal_p-5.png
+>]
+<figures/interp/patterns/pattern_16-nodal_p-3_weighted.png, id=1009, 794.97pt x
+ 358.4592pt>
+File: figures/interp/patterns/pattern_16-nodal_p-3_weighted.png Graphic file (t
+ype png)
+<use figures/interp/patterns/pattern_16-nodal_p-3_weighted.png>
+Package pdftex.def Info: figures/interp/patterns/pattern_16-nodal_p-3_weighted.
+png  used on input line 30.
+(pdftex.def)             Requested size: 313.69026pt x 141.45035pt.
+<figures/interp/patterns/pattern_16-nodal_p-4_weighted.png, id=1010, 794.97pt x
+ 358.4592pt>
+File: figures/interp/patterns/pattern_16-nodal_p-4_weighted.png Graphic file (t
+ype png)
+<use figures/interp/patterns/pattern_16-nodal_p-4_weighted.png>
+Package pdftex.def Info: figures/interp/patterns/pattern_16-nodal_p-4_weighted.
+png  used on input line 36.
+(pdftex.def)             Requested size: 313.69026pt x 141.45035pt.
+<figures/interp/patterns/pattern_16-nodal_p-5_weighted.png, id=1011, 794.97pt x
+ 358.4592pt>
+File: figures/interp/patterns/pattern_16-nodal_p-5_weighted.png Graphic file (t
+ype png)
+<use figures/interp/patterns/pattern_16-nodal_p-5_weighted.png>
+Package pdftex.def Info: figures/interp/patterns/pattern_16-nodal_p-5_weighted.
+png  used on input line 42.
+(pdftex.def)             Requested size: 313.69026pt x 141.45035pt.
+<figures/interp/patterns/pattern_16-nodal_p-8_weighted.png, id=1012, 794.97pt x
+ 358.4592pt>
+File: figures/interp/patterns/pattern_16-nodal_p-8_weighted.png Graphic file (t
+ype png)
+<use figures/interp/patterns/pattern_16-nodal_p-8_weighted.png>
+Package pdftex.def Info: figures/interp/patterns/pattern_16-nodal_p-8_weighted.
+png  used on input line 48.
+(pdftex.def)             Requested size: 313.69026pt x 141.45035pt.
+ [42 <./figures/interp/patterns/pattern_16-nodal_p-3_weighted.png> <./figures/i
+nterp/patterns/pattern_16-nodal_p-4_weighted.png> <./figures/interp/patterns/pa
+ttern_16-nodal_p-5_weighted.png> <./figures/interp/patterns/pattern_16-nodal_p-
+8_weighted.png>]
+<figures/interp/patterns/pattern_12-nodal_ER050_p-3.png, id=1022, 794.97pt x 35
+8.4592pt>
+File: figures/interp/patterns/pattern_12-nodal_ER050_p-3.png Graphic file (type
+ png)
+<use figures/interp/patterns/pattern_12-nodal_ER050_p-3.png>
+Package pdftex.def Info: figures/interp/patterns/pattern_12-nodal_ER050_p-3.png
+  used on input line 59.
+(pdftex.def)             Requested size: 313.69026pt x 141.45035pt.
+<figures/interp/patterns/pattern_12-nodal_ER050_p-4.png, id=1023, 794.97pt x 35
+8.4592pt>
+File: figures/interp/patterns/pattern_12-nodal_ER050_p-4.png Graphic file (type
+ png)
+<use figures/interp/patterns/pattern_12-nodal_ER050_p-4.png>
+Package pdftex.def Info: figures/interp/patterns/pattern_12-nodal_ER050_p-4.png
+  used on input line 65.
+(pdftex.def)             Requested size: 313.69026pt x 141.45035pt.
+<figures/interp/patterns/pattern_12-nodal_ER050_p-5.png, id=1024, 794.97pt x 35
+8.4592pt>
+File: figures/interp/patterns/pattern_12-nodal_ER050_p-5.png Graphic file (type
+ png)
+<use figures/interp/patterns/pattern_12-nodal_ER050_p-5.png>
+Package pdftex.def Info: figures/interp/patterns/pattern_12-nodal_ER050_p-5.png
+  used on input line 71.
+(pdftex.def)             Requested size: 313.69026pt x 141.45035pt.
+<figures/interp/patterns/pattern_12-nodal_ER050_p-8.png, id=1025, 794.97pt x 35
+8.4592pt>
+File: figures/interp/patterns/pattern_12-nodal_ER050_p-8.png Graphic file (type
+ png)
+<use figures/interp/patterns/pattern_12-nodal_ER050_p-8.png>
+Package pdftex.def Info: figures/interp/patterns/pattern_12-nodal_ER050_p-8.png
+  used on input line 77.
+(pdftex.def)             Requested size: 313.69026pt x 141.45035pt.
+ [43 <./figures/interp/patterns/pattern_12-nodal_ER050_p-3.png> <./figures/inte
+rp/patterns/pattern_12-nodal_ER050_p-4.png> <./figures/interp/patterns/pattern_
+12-nodal_ER050_p-5.png> <./figures/interp/patterns/pattern_12-nodal_ER050_p-8.p
+ng>]
+<figures/interp/patterns/pattern_12-nodal_ER075_p-3.png, id=1035, 794.97pt x 35
+8.4592pt>
+File: figures/interp/patterns/pattern_12-nodal_ER075_p-3.png Graphic file (type
+ png)
+<use figures/interp/patterns/pattern_12-nodal_ER075_p-3.png>
+Package pdftex.def Info: figures/interp/patterns/pattern_12-nodal_ER075_p-3.png
+  used on input line 88.
+(pdftex.def)             Requested size: 313.69026pt x 141.45035pt.
+<figures/interp/patterns/pattern_12-nodal_ER075_p-4.png, id=1036, 794.97pt x 35
+8.4592pt>
+File: figures/interp/patterns/pattern_12-nodal_ER075_p-4.png Graphic file (type
+ png)
+<use figures/interp/patterns/pattern_12-nodal_ER075_p-4.png>
+Package pdftex.def Info: figures/interp/patterns/pattern_12-nodal_ER075_p-4.png
+  used on input line 94.
+(pdftex.def)             Requested size: 313.69026pt x 141.45035pt.
+<figures/interp/patterns/pattern_12-nodal_ER075_p-5.png, id=1037, 794.97pt x 35
+8.4592pt>
+File: figures/interp/patterns/pattern_12-nodal_ER075_p-5.png Graphic file (type
+ png)
+<use figures/interp/patterns/pattern_12-nodal_ER075_p-5.png>
+Package pdftex.def Info: figures/interp/patterns/pattern_12-nodal_ER075_p-5.png
+  used on input line 100.
+(pdftex.def)             Requested size: 313.69026pt x 141.45035pt.
+<figures/interp/patterns/pattern_12-nodal_ER075_p-8.png, id=1038, 794.97pt x 35
+8.4592pt>
+File: figures/interp/patterns/pattern_12-nodal_ER075_p-8.png Graphic file (type
+ png)
+<use figures/interp/patterns/pattern_12-nodal_ER075_p-8.png>
+Package pdftex.def Info: figures/interp/patterns/pattern_12-nodal_ER075_p-8.png
+  used on input line 106.
+(pdftex.def)             Requested size: 313.69026pt x 141.45035pt.
+ [44 <./figures/interp/patterns/pattern_12-nodal_ER075_p-3.png> <./figures/inte
+rp/patterns/pattern_12-nodal_ER075_p-4.png> <./figures/interp/patterns/pattern_
+12-nodal_ER075_p-5.png> <./figures/interp/patterns/pattern_12-nodal_ER075_p-8.p
+ng>]
+<figures/interp/patterns/pattern_12-nodal_cyclic_p-3.png, id=1048, 794.97pt x 3
+58.4592pt>
+File: figures/interp/patterns/pattern_12-nodal_cyclic_p-3.png Graphic file (typ
+e png)
+<use figures/interp/patterns/pattern_12-nodal_cyclic_p-3.png>
+Package pdftex.def Info: figures/interp/patterns/pattern_12-nodal_cyclic_p-3.pn
+g  used on input line 117.
+(pdftex.def)             Requested size: 313.69026pt x 141.45035pt.
+<figures/interp/patterns/pattern_12-nodal_cyclic_p-4.png, id=1049, 794.97pt x 3
+58.4592pt>
+File: figures/interp/patterns/pattern_12-nodal_cyclic_p-4.png Graphic file (typ
+e png)
+<use figures/interp/patterns/pattern_12-nodal_cyclic_p-4.png>
+Package pdftex.def Info: figures/interp/patterns/pattern_12-nodal_cyclic_p-4.pn
+g  used on input line 123.
+(pdftex.def)             Requested size: 313.69026pt x 141.45035pt.
+<figures/interp/patterns/pattern_12-nodal_cyclic_p-5.png, id=1050, 794.97pt x 3
+58.4592pt>
+File: figures/interp/patterns/pattern_12-nodal_cyclic_p-5.png Graphic file (typ
+e png)
+<use figures/interp/patterns/pattern_12-nodal_cyclic_p-5.png>
+Package pdftex.def Info: figures/interp/patterns/pattern_12-nodal_cyclic_p-5.pn
+g  used on input line 129.
+(pdftex.def)             Requested size: 313.69026pt x 141.45035pt.
+<figures/interp/patterns/pattern_12-nodal_cyclic_p-10.png, id=1051, 794.97pt x 
+358.4592pt>
+File: figures/interp/patterns/pattern_12-nodal_cyclic_p-10.png Graphic file (ty
+pe png)
+<use figures/interp/patterns/pattern_12-nodal_cyclic_p-10.png>
+Package pdftex.def Info: figures/interp/patterns/pattern_12-nodal_cyclic_p-10.p
+ng  used on input line 135.
+(pdftex.def)             Requested size: 313.69026pt x 141.45035pt.
+ [45 <./figures/interp/patterns/pattern_12-nodal_cyclic_p-3.png> <./figures/int
+erp/patterns/pattern_12-nodal_cyclic_p-4.png> <./figures/interp/patterns/patter
+n_12-nodal_cyclic_p-5.png> <./figures/interp/patterns/pattern_12-nodal_cyclic_p
+-10.png>] [46
+
+]
+Appendix B.
+<figures/interp/runtime_16-nodal.png, id=1065, 722.7pt x 430.7292pt>
+File: figures/interp/runtime_16-nodal.png Graphic file (type png)
+<use figures/interp/runtime_16-nodal.png>
+Package pdftex.def Info: figures/interp/runtime_16-nodal.png  used on input lin
+e 145.
+(pdftex.def)             Requested size: 268.88127pt x 160.25458pt.
+<figures/interp/runtime_16-nodal_weighted.png, id=1066, 722.7pt x 430.7292pt>
+File: figures/interp/runtime_16-nodal_weighted.png Graphic file (type png)
+<use figures/interp/runtime_16-nodal_weighted.png>
+Package pdftex.def Info: figures/interp/runtime_16-nodal_weighted.png  used on 
+input line 151.
+(pdftex.def)             Requested size: 268.88127pt x 160.25458pt.
+<figures/interp/runtime_15-nodal_ER050.png, id=1067, 722.7pt x 430.7292pt>
+File: figures/interp/runtime_15-nodal_ER050.png Graphic file (type png)
+<use figures/interp/runtime_15-nodal_ER050.png>
+Package pdftex.def Info: figures/interp/runtime_15-nodal_ER050.png  used on inp
+ut line 157.
+(pdftex.def)             Requested size: 268.88127pt x 160.25458pt.
+[47 <./figures/interp/runtime_16-nodal.png> <./figures/interp/runtime_16-nodal_
+weighted.png>]
+<figures/interp/runtime_15-nodal_ER075.png, id=1077, 722.7pt x 430.7292pt>
+File: figures/interp/runtime_15-nodal_ER075.png Graphic file (type png)
+<use figures/interp/runtime_15-nodal_ER075.png>
+Package pdftex.def Info: figures/interp/runtime_15-nodal_ER075.png  used on inp
+ut line 163.
+(pdftex.def)             Requested size: 268.88127pt x 160.25458pt.
+ [48 <./figures/interp/runtime_15-nodal_ER050.png> <./figures/interp/runtime_15
+-nodal_ER075.png>]
+Appendix C.
+<figures/interp/FOM_(unweighted)/EXP/FOM_3-regular-10-nodal_exp.png, id=1086, 4
+62.528pt x 344.0052pt>
+File: figures/interp/FOM_(unweighted)/EXP/FOM_3-regular-10-nodal_exp.png Graphi
+c file (type png)
+<use figures/interp/FOM_(unweighted)/EXP/FOM_3-regular-10-nodal_exp.png>
+Package pdftex.def Info: figures/interp/FOM_(unweighted)/EXP/FOM_3-regular-10-n
+odal_exp.png  used on input line 174.
+(pdftex.def)             Requested size: 201.65753pt x 149.98224pt.
+<figures/interp/FOM_(unweighted)/EXP/FOM_3-regular-12-nodal_exp.png, id=1087, 4
+62.528pt x 344.0052pt>
+File: figures/interp/FOM_(unweighted)/EXP/FOM_3-regular-12-nodal_exp.png Graphi
+c file (type png)
+<use figures/interp/FOM_(unweighted)/EXP/FOM_3-regular-12-nodal_exp.png>
+Package pdftex.def Info: figures/interp/FOM_(unweighted)/EXP/FOM_3-regular-12-n
+odal_exp.png  used on input line 180.
+(pdftex.def)             Requested size: 201.65753pt x 149.98224pt.
+<figures/interp/FOM_(unweighted)/EXP/FOM_3-regular-14-nodal_exp.png, id=1088, 4
+62.528pt x 344.0052pt>
+File: figures/interp/FOM_(unweighted)/EXP/FOM_3-regular-14-nodal_exp.png Graphi
+c file (type png)
+<use figures/interp/FOM_(unweighted)/EXP/FOM_3-regular-14-nodal_exp.png>
+Package pdftex.def Info: figures/interp/FOM_(unweighted)/EXP/FOM_3-regular-14-n
+odal_exp.png  used on input line 187.
+(pdftex.def)             Requested size: 201.65753pt x 149.98224pt.
+<figures/interp/FOM_(unweighted)/EXP/FOM_3-regular-16-nodal_exp.png, id=1089, 4
+62.528pt x 344.0052pt>
+File: figures/interp/FOM_(unweighted)/EXP/FOM_3-regular-16-nodal_exp.png Graphi
+c file (type png)
+<use figures/interp/FOM_(unweighted)/EXP/FOM_3-regular-16-nodal_exp.png>
+Package pdftex.def Info: figures/interp/FOM_(unweighted)/EXP/FOM_3-regular-16-n
+odal_exp.png  used on input line 193.
+(pdftex.def)             Requested size: 201.65753pt x 149.98224pt.
+<figures/interp/FOM_(weighted)/SQR/FOM_3-regular-10-nodal_sqr.png, id=1090, 462
+.528pt x 344.0052pt>
+File: figures/interp/FOM_(weighted)/SQR/FOM_3-regular-10-nodal_sqr.png Graphic 
+file (type png)
+<use figures/interp/FOM_(weighted)/SQR/FOM_3-regular-10-nodal_sqr.png>
+Package pdftex.def Info: figures/interp/FOM_(weighted)/SQR/FOM_3-regular-10-nod
+al_sqr.png  used on input line 203.
+(pdftex.def)             Requested size: 201.65753pt x 149.98224pt.
+<figures/interp/FOM_(weighted)/SQR/FOM_3-regular-12-nodal_sqr.png, id=1091, 462
+.528pt x 344.0052pt>
+File: figures/interp/FOM_(weighted)/SQR/FOM_3-regular-12-nodal_sqr.png Graphic 
+file (type png)
+<use figures/interp/FOM_(weighted)/SQR/FOM_3-regular-12-nodal_sqr.png>
+Package pdftex.def Info: figures/interp/FOM_(weighted)/SQR/FOM_3-regular-12-nod
+al_sqr.png  used on input line 209.
+(pdftex.def)             Requested size: 201.65753pt x 149.98224pt.
+<figures/interp/FOM_(weighted)/SQR/FOM_3-regular-14-nodal_sqr.png, id=1092, 462
+.528pt x 344.0052pt>
+File: figures/interp/FOM_(weighted)/SQR/FOM_3-regular-14-nodal_sqr.png Graphic 
+file (type png)
+<use figures/interp/FOM_(weighted)/SQR/FOM_3-regular-14-nodal_sqr.png>
+Package pdftex.def Info: figures/interp/FOM_(weighted)/SQR/FOM_3-regular-14-nod
+al_sqr.png  used on input line 216.
+(pdftex.def)             Requested size: 201.65753pt x 149.98224pt.
+<figures/interp/FOM_(weighted)/SQR/FOM_3-regular-16-nodal_sqr.png, id=1093, 462
+.528pt x 344.0052pt>
+File: figures/interp/FOM_(weighted)/SQR/FOM_3-regular-16-nodal_sqr.png Graphic 
+file (type png)
+<use figures/interp/FOM_(weighted)/SQR/FOM_3-regular-16-nodal_sqr.png>
+Package pdftex.def Info: figures/interp/FOM_(weighted)/SQR/FOM_3-regular-16-nod
+al_sqr.png  used on input line 222.
+(pdftex.def)             Requested size: 201.65753pt x 149.98224pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [49
+
+ <./figures/interp/FOM_(unweighted)/EXP/FOM_3-regular-10-nodal_exp.png> <./figu
+res/interp/FOM_(unweighted)/EXP/FOM_3-regular-12-nodal_exp.png> <./figures/inte
+rp/FOM_(unweighted)/EXP/FOM_3-regular-14-nodal_exp.png> <./figures/interp/FOM_(
+unweighted)/EXP/FOM_3-regular-16-nodal_exp.png>]
+<figures/interp/fom_er050_n11.png, id=1103, 462.528pt x 344.0052pt>
+File: figures/interp/fom_er050_n11.png Graphic file (type png)
+<use figures/interp/fom_er050_n11.png>
+Package pdftex.def Info: figures/interp/fom_er050_n11.png  used on input line 2
+32.
+(pdftex.def)             Requested size: 201.65753pt x 149.98224pt.
+<figures/interp/fom_er050_n12.png, id=1104, 462.528pt x 344.0052pt>
+File: figures/interp/fom_er050_n12.png Graphic file (type png)
+<use figures/interp/fom_er050_n12.png>
+Package pdftex.def Info: figures/interp/fom_er050_n12.png  used on input line 2
+38.
+(pdftex.def)             Requested size: 201.65753pt x 149.98224pt.
+<figures/interp/fom_er050_n13.png, id=1105, 462.528pt x 344.0052pt>
+File: figures/interp/fom_er050_n13.png Graphic file (type png)
+<use figures/interp/fom_er050_n13.png>
+Package pdftex.def Info: figures/interp/fom_er050_n13.png  used on input line 2
+45.
+(pdftex.def)             Requested size: 201.65753pt x 149.98224pt.
+<figures/interp/fom_er050_n14.png, id=1106, 462.528pt x 344.0052pt>
+File: figures/interp/fom_er050_n14.png Graphic file (type png)
+<use figures/interp/fom_er050_n14.png>
+Package pdftex.def Info: figures/interp/fom_er050_n14.png  used on input line 2
+51.
+(pdftex.def)             Requested size: 201.65753pt x 149.98224pt.
+<figures/interp/fom_er050_n15.png, id=1107, 462.528pt x 344.0052pt>
+File: figures/interp/fom_er050_n15.png Graphic file (type png)
+<use figures/interp/fom_er050_n15.png>
+Package pdftex.def Info: figures/interp/fom_er050_n15.png  used on input line 2
+57.
+(pdftex.def)             Requested size: 201.65753pt x 149.98224pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [50 <./figures/interp/FOM_(weighted)/SQR/FOM_3-regular-10-nodal_sqr.png> <./fi
+gures/interp/FOM_(weighted)/SQR/FOM_3-regular-12-nodal_sqr.png> <./figures/inte
+rp/FOM_(weighted)/SQR/FOM_3-regular-14-nodal_sqr.png> <./figures/interp/FOM_(we
+ighted)/SQR/FOM_3-regular-16-nodal_sqr.png>]
+<figures/interp/fom_er075_n11.png, id=1117, 462.528pt x 344.0052pt>
+File: figures/interp/fom_er075_n11.png Graphic file (type png)
+<use figures/interp/fom_er075_n11.png>
+Package pdftex.def Info: figures/interp/fom_er075_n11.png  used on input line 2
+67.
+(pdftex.def)             Requested size: 201.65753pt x 149.98224pt.
+<figures/interp/fom_er075_n12.png, id=1118, 462.528pt x 344.0052pt>
+File: figures/interp/fom_er075_n12.png Graphic file (type png)
+<use figures/interp/fom_er075_n12.png>
+Package pdftex.def Info: figures/interp/fom_er075_n12.png  used on input line 2
+73.
+(pdftex.def)             Requested size: 201.65753pt x 149.98224pt.
+<figures/interp/fom_er075_n13.png, id=1119, 462.528pt x 344.0052pt>
+File: figures/interp/fom_er075_n13.png Graphic file (type png)
+<use figures/interp/fom_er075_n13.png>
+Package pdftex.def Info: figures/interp/fom_er075_n13.png  used on input line 2
+80.
+(pdftex.def)             Requested size: 201.65753pt x 149.98224pt.
+<figures/interp/fom_er075_n14.png, id=1120, 462.528pt x 344.0052pt>
+File: figures/interp/fom_er075_n14.png Graphic file (type png)
+<use figures/interp/fom_er075_n14.png>
+Package pdftex.def Info: figures/interp/fom_er075_n14.png  used on input line 2
+86.
+(pdftex.def)             Requested size: 201.65753pt x 149.98224pt.
+<figures/interp/fom_er075_n15.png, id=1121, 462.528pt x 344.0052pt>
+File: figures/interp/fom_er075_n15.png Graphic file (type png)
+<use figures/interp/fom_er075_n15.png>
+Package pdftex.def Info: figures/interp/fom_er075_n15.png  used on input line 2
+92.
+(pdftex.def)             Requested size: 201.65753pt x 149.98224pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [51 <./figures/interp/fom_er050_n11.png> <./figures/interp/fom_er050_n12.png> 
+<./figures/interp/fom_er050_n13.png> <./figures/interp/fom_er050_n14.png> <./fi
+gures/interp/fom_er050_n15.png>] [52 <./figures/interp/fom_er075_n11.png> <./fi
+gures/interp/fom_er075_n12.png> <./figures/interp/fom_er075_n13.png> <./figures
+/interp/fom_er075_n14.png> <./figures/interp/fom_er075_n15.png>]
+Appendix D.
+)
+\Changes@OutFile=\write7
+\openout7 = `report.soc'.
+
+\tf@loc=\write8
+\openout8 = `report.loc'.
+
+ [53
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 120.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 120.
+ (report.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 120.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 120.
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: 250026EAAC34FF007770A1E6E8B2808A;2930.
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 22.17pt have occurred.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 120.
+ ) 
+Here is how much of TeX's memory you used:
+ 38507 strings out of 493305
+ 709951 string characters out of 3129802
+ 809782 words of memory out of 3000000
+ 40874 multiletter control sequences out of 15000+200000
+ 705823 words of font info for 206 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 62i,23n,83p,2842b,778s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/joost/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
+} <C:\Users\joost\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\e
+crm1000.pk> <C:\Users\joost\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\e
+c\dpi600\ectt1000.pk>{C:/Users/joost/AppData/Local/Programs/MiKTeX 2.9/fonts/en
+c/dvips/roboto/rbto_b5rac7.enc} <C:\Users\joost\AppData\Local\MiKTeX\2.9\fonts\
+pk\ljfour\jknappen\ec\dpi600\ecrm3583.pk><C:/Users/joost/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/google/roboto/Roboto-Regular.pfb><C:/Users/joost/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users
+/joost/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/fourier/fourier-bb.
+pfb><C:/Users/joost/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/fourie
+r/fourier-mex.pfb><C:/Users/joost/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
+/public/fourier/fourier-ml.pfb><C:/Users/joost/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/fourier/fourier-mlit.pfb><C:/Users/joost/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/public/fourier/fourier-mlitb.pfb><C:/Users/joost/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/fourier/fourier-ms.pfb><C:/
+Users/joost/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbo
+ls/msam10.pfb><C:/Users/joost/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/ado
+be/utopia/putb8a.pfb><C:/Users/joost/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/adobe/utopia/putbi8a.pfb><C:/Users/joost/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/adobe/utopia/putr8a.pfb><C:/Users/joost/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/adobe/utopia/putri8a.pfb>
+Output written on report.pdf (61 pages, 6489248 bytes).
+PDF statistics:
+ 1392 PDF objects out of 1440 (max. 8388607)
+ 289 named destinations out of 1000 (max. 500000)
+ 890 words of extra memory for PDF output out of 10000 (max. 10000000)
+

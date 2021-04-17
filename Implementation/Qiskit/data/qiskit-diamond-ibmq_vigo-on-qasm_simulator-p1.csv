@@ -1,0 +1,2 @@
+,angles,backend,distribution,energy,graph,iterations,max-cut objective,noise,optimizer,p,simulated backend,solution,solution objective,time,topology
+0,[1.16324242 5.62941679],qasm_simulator,"{'1110': 460, '0111': 137, '1000': 191, '1100': 704, '0001': 535, '0110': 756, '1011': 430, '0011': 692, '0100': 507, '0000': 137, '1101': 156, '1001': 741, '1010': 1216, '1111': 110, '0010': 260, '0101': 1160}",-0.63681759417011,diamond,1000.0,-3.13681759417011,1.0,NELDER_MEAD,1.0,ibmq_vigo,[1 0 1 0],4.0,1038.434621334076,1.0

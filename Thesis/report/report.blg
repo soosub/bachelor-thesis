@@ -1,0 +1,13 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: report.aux
+The style file: tudelft-report.bst
+Database file #1: references.bib
+I was expecting a `,' or a `}'---line 286 of file references.bib
+ :  
+ :  doi = {10.1109/SFCS.1994.365700}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty journal in networkx
+Warning--can't use both author and editor fields in Suzuki05
+Warning--empty publisher in Suzuki05
+Warning--can't use both author and editor fields in Karp72
+(There was 1 error message)

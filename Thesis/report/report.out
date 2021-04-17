@@ -1,0 +1,42 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [0][-]{chapter.2}{Combinatorial Optimization and Max-Cut}{}% 2
+\BOOKMARK [1][-]{section.2.1}{Combinatorial Optimization Problems}{chapter.2}% 3
+\BOOKMARK [2][-]{subsection.2.1.1}{Max-Sat}{section.2.1}% 4
+\BOOKMARK [2][-]{subsection.2.1.2}{Max-Cut}{section.2.1}% 5
+\BOOKMARK [1][-]{section.2.2}{Approximation algorithms and ratios}{chapter.2}% 6
+\BOOKMARK [2][-]{subsection.2.2.1}{Bounds on the approximation ratio of Max-Cut}{section.2.2}% 7
+\BOOKMARK [1][-]{section.2.3}{Classical Algorithms for Max-Cut}{chapter.2}% 8
+\BOOKMARK [2][-]{subsection.2.3.1}{Greedy approach}{section.2.3}% 9
+\BOOKMARK [2][-]{subsection.2.3.2}{Random partition}{section.2.3}% 10
+\BOOKMARK [2][-]{subsection.2.3.3}{Goemans-Williamson}{section.2.3}% 11
+\BOOKMARK [1][-]{section.2.4}{Applications of Max-Cut}{chapter.2}% 12
+\BOOKMARK [2][-]{subsection.2.4.1}{Ising Model}{section.2.4}% 13
+\BOOKMARK [0][-]{chapter.3}{The Quantum Approximate Optimization Algorithm}{}% 14
+\BOOKMARK [1][-]{section.3.1}{General setup}{chapter.3}% 15
+\BOOKMARK [1][-]{section.3.2}{Applying QAOA to Max-Cut}{chapter.3}% 16
+\BOOKMARK [2][-]{subsection.3.2.1}{Quantum circuit design}{section.3.2}% 17
+\BOOKMARK [2][-]{subsection.3.2.2}{Maximizing the expectation value}{section.3.2}% 18
+\BOOKMARK [2][-]{subsection.3.2.3}{Expectation landscapes}{section.3.2}% 19
+\BOOKMARK [2][-]{subsection.3.2.4}{Adiabatic Theorem and the limit p }{section.3.2}% 20
+\BOOKMARK [2][-]{subsection.3.2.5}{Concentration}{section.3.2}% 21
+\BOOKMARK [1][-]{section.3.3}{Finding optimal parameters}{chapter.3}% 22
+\BOOKMARK [2][-]{subsection.3.3.1}{Variational Quantum Eigensolver}{section.3.3}% 23
+\BOOKMARK [1][-]{section.3.4}{Relation to the Quantum Adiabatic Algorithm}{chapter.3}% 24
+\BOOKMARK [0][-]{chapter.4}{Implementation}{}% 25
+\BOOKMARK [1][-]{section.4.1}{Patterns in the optimal parameters}{chapter.4}% 26
+\BOOKMARK [1][-]{section.4.2}{Proposed method by Zhou et al.}{chapter.4}% 27
+\BOOKMARK [2][-]{subsection.4.2.1}{INTERP}{section.4.2}% 28
+\BOOKMARK [1][-]{section.4.3}{Number of samples}{chapter.4}% 29
+\BOOKMARK [1][-]{section.4.4}{Implementation in Python}{chapter.4}% 30
+\BOOKMARK [2][-]{subsection.4.4.1}{QAOA and Goemans-Williamson}{section.4.4}% 31
+\BOOKMARK [2][-]{subsection.4.4.2}{Graphs}{section.4.4}% 32
+\BOOKMARK [0][-]{chapter.5}{Results}{}% 33
+\BOOKMARK [1][-]{section.5.1}{3-regular graphs}{chapter.5}% 34
+\BOOKMARK [1][-]{section.5.2}{Erd\366s-R\351nyi graphs}{chapter.5}% 35
+\BOOKMARK [1][-]{section.5.3}{Cyclic graphs}{chapter.5}% 36
+\BOOKMARK [0][-]{chapter.6}{Conclusions and Future Work}{}% 37
+\BOOKMARK [0][-]{chapter*.28}{Bibliography}{}% 38
+\BOOKMARK [0][-]{appendix.A}{Parameter patterns}{}% 39
+\BOOKMARK [0][-]{appendix.B}{Runtime}{}% 40
+\BOOKMARK [0][-]{appendix.C}{Fractional errors}{}% 41
+\BOOKMARK [0][-]{appendix.D}{Software and Python packages}{}% 42

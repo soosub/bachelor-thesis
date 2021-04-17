@@ -1,0 +1,44 @@
+- What Quantum Computing is
+- Topology of quantum chips
+
+QAOA
+- How QAOA works
+- Adiabatic theorem
+- What is p
+- Why these unitary operators
+- Mixer and cost Hamiltonians?
+
+VQE
+- What VQE is and how it works
+- Relation of VQE and QPE
+
+Optimization
+- What is NP
+- Karps 21 NP-complete problems
+- Idea of Approximate optimization
+
+Mathematics
+- Operators in QM
+- Tensors
+- Unitary operators
+- Sampling and  
+- Bloch Sphere
+
+Ising model
+see: http://stanford.edu/~jeffjar/statmech2/intro4.html
+
+Comparison with Classical algorithms
+- Goemans Williamson
+- Hastings comparison with 
+	presentation: https://www.youtube.com/watch?v=jDl8n7wMSWk&t=715s
+	paper: https://arxiv.org/pdf/1905.07047.pdf
+
+References
+- Hidary
+- Mike & Ike
+- Scott's QC since Democritus (?)
+- Original paper
+- 2020 paper
+- Karps NP
+- Goemans Williamson
+- Qiskit & Rigetti
